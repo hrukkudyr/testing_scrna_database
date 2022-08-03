@@ -1,0 +1,11121 @@
+[
+  {
+    "Category": "Alignment",
+    "Description": "Alignment of sequencing reads to a reference",
+    "Tools": [
+      {
+        "Tool": "alevin-fry"
+      },
+      {
+        "Tool": "BALDR"
+      },
+      {
+        "Tool": "bcbio",
+        "PyPI": "bcbio"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "BraCeR"
+      },
+      {
+        "Tool": "BRAPeS"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "dropSeqPipe",
+        "PyPI": "dropSeqPipe"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "Eoulsan"
+      },
+      {
+        "Tool": "eQTLsingle"
+      },
+      {
+        "Tool": "Falco"
+      },
+      {
+        "Tool": "fba",
+        "PyPI": "fba"
+      },
+      {
+        "Tool": "FLAMES",
+        "Bioc": "FLAMES"
+      },
+      {
+        "Tool": "gExcite"
+      },
+      {
+        "Tool": "Ikura"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MTD"
+      },
+      {
+        "Tool": "NanoPARE"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "Rsubread",
+        "Bioc": "Rsubread"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "scasa"
+      },
+      {
+        "Tool": "scGESTALT"
+      },
+      {
+        "Tool": "scisorseqr"
+      },
+      {
+        "Tool": "scPipe",
+        "Bioc": "scPipe"
+      },
+      {
+        "Tool": "scQuint"
+      },
+      {
+        "Tool": "scruff",
+        "Bioc": "scruff"
+      },
+      {
+        "Tool": "scsnv"
+      },
+      {
+        "Tool": "scTE"
+      },
+      {
+        "Tool": "scumi"
+      },
+      {
+        "Tool": "Sharq"
+      },
+      {
+        "Tool": "SICILIAN"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "SIP"
+      },
+      {
+        "Tool": "STAR"
+      },
+      {
+        "Tool": "TAR-scRNA-seq"
+      },
+      {
+        "Tool": "Tobiko"
+      },
+      {
+        "Tool": "TraCeR"
+      },
+      {
+        "Tool": "UniverSC"
+      },
+      {
+        "Tool": "VarTrix"
+      },
+      {
+        "Tool": "VDJPuzzle"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "zUMIs"
+      }
+    ]
+  },
+  {
+    "Category": "AlleleSpecific",
+    "Description": "Detection of allele-specific expression",
+    "Tools": [
+      {
+        "Tool": "SCALE"
+      },
+      {
+        "Tool": "scAlleleCount"
+      },
+      {
+        "Tool": "scBASE",
+        "PyPI": "scbase"
+      },
+      {
+        "Tool": "scHLAcount"
+      },
+      {
+        "Tool": "SiCeLoRe"
+      },
+      {
+        "Tool": "txburst"
+      }
+    ]
+  },
+  {
+    "Category": "AlternativeSplicing",
+    "Description": "Detection of alternative splicing",
+    "Tools": [
+      {
+        "Tool": "acorde"
+      },
+      {
+        "Tool": "airpart",
+        "Bioc": "airpart"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "BRIE",
+        "PyPI": "brie"
+      },
+      {
+        "Tool": "DISCO"
+      },
+      {
+        "Tool": "DTUrtle"
+      },
+      {
+        "Tool": "MAAPER",
+        "CRAN": "MAAPER"
+      },
+      {
+        "Tool": "Outrigger",
+        "PyPI": "outrigger"
+      },
+      {
+        "Tool": "polyApipe"
+      },
+      {
+        "Tool": "Psix"
+      },
+      {
+        "Tool": "ReadZS"
+      },
+      {
+        "Tool": "satuRn",
+        "Bioc": "satuRn"
+      },
+      {
+        "Tool": "SCAFE"
+      },
+      {
+        "Tool": "scAllele"
+      },
+      {
+        "Tool": "scAPA"
+      },
+      {
+        "Tool": "scAPAtrap"
+      },
+      {
+        "Tool": "SCAPE"
+      },
+      {
+        "Tool": "SCAPTURE"
+      },
+      {
+        "Tool": "scasa"
+      },
+      {
+        "Tool": "SCATS"
+      },
+      {
+        "Tool": "scDALI"
+      },
+      {
+        "Tool": "scDAPA"
+      },
+      {
+        "Tool": "scDaPars"
+      },
+      {
+        "Tool": "scisorseqr"
+      },
+      {
+        "Tool": "ScisorWiz"
+      },
+      {
+        "Tool": "scLAPA"
+      },
+      {
+        "Tool": "scMAPA"
+      },
+      {
+        "Tool": "scQuint"
+      },
+      {
+        "Tool": "SCUREL"
+      },
+      {
+        "Tool": "scUTRquant"
+      },
+      {
+        "Tool": "SiCeLoRe"
+      },
+      {
+        "Tool": "Sierra"
+      },
+      {
+        "Tool": "SingleSplice"
+      },
+      {
+        "Tool": "VALERIE",
+        "CRAN": "VALERIE"
+      },
+      {
+        "Tool": "velocyto",
+        "PyPI": "velocyto"
+      }
+    ]
+  },
+  {
+    "Category": "Assembly",
+    "Description": "Tools that perform assembly of scRNA-seq reads",
+    "Tools": [
+      {
+        "Tool": "BALDR"
+      },
+      {
+        "Tool": "BASIC"
+      },
+      {
+        "Tool": "BraCeR"
+      },
+      {
+        "Tool": "RNA-Bloom"
+      },
+      {
+        "Tool": "Scallop2"
+      },
+      {
+        "Tool": "scRNAss"
+      },
+      {
+        "Tool": "TraCeR"
+      },
+      {
+        "Tool": "TRUST4"
+      },
+      {
+        "Tool": "VDJPuzzle"
+      }
+    ]
+  },
+  {
+    "Category": "CellCycle",
+    "Description": "Assignment or correction of stages of the cell cycle, or other uses of cell cycle genes, or genes associated with similar processes",
+    "Tools": [
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "Beyondcell"
+      },
+      {
+        "Tool": "CancerInSilico",
+        "Bioc": "CancerInSilico"
+      },
+      {
+        "Tool": "CCPE"
+      },
+      {
+        "Tool": "ccRemover",
+        "CRAN": "ccRemover"
+      },
+      {
+        "Tool": "CoSpar",
+        "PyPI": "cospar"
+      },
+      {
+        "Tool": "Cyclum"
+      },
+      {
+        "Tool": "DeepCycle"
+      },
+      {
+        "Tool": "DoubletDecon"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "OscoNet"
+      },
+      {
+        "Tool": "Oscope",
+        "Bioc": "Oscope"
+      },
+      {
+        "Tool": "peco",
+        "Bioc": "peco"
+      },
+      {
+        "Tool": "Pre-Phaser"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "reCAT"
+      },
+      {
+        "Tool": "Revelio"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "scLVM",
+        "PyPI": "scLVM"
+      },
+      {
+        "Tool": "scran",
+        "Bioc": "scran"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "Tempo"
+      },
+      {
+        "Tool": "tricycle",
+        "Bioc": "tricycle"
+      }
+    ]
+  },
+  {
+    "Category": "Classification",
+    "Description": "Assignment of cell types based on a reference dataset",
+    "Tools": [
+      {
+        "Tool": "ACTINN"
+      },
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "AutoClass"
+      },
+      {
+        "Tool": "AutomaticCellTypeIdentification"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "Capybara"
+      },
+      {
+        "Tool": "cardelino"
+      },
+      {
+        "Tool": "CaSee"
+      },
+      {
+        "Tool": "CaSTLe"
+      },
+      {
+        "Tool": "celaref",
+        "Bioc": "celaref"
+      },
+      {
+        "Tool": "Cell-BLAST",
+        "PyPI": "Cell-BLAST"
+      },
+      {
+        "Tool": "cell2location",
+        "PyPI": "cell2location"
+      },
+      {
+        "Tool": "Cellar"
+      },
+      {
+        "Tool": "cellassign"
+      },
+      {
+        "Tool": "CellFishing"
+      },
+      {
+        "Tool": "cellgrid",
+        "PyPI": "cellgrid"
+      },
+      {
+        "Tool": "CellID",
+        "Bioc": "CelliD"
+      },
+      {
+        "Tool": "CellMeSH"
+      },
+      {
+        "Tool": "CellO"
+      },
+      {
+        "Tool": "cellpypes",
+        "CRAN": "cellpypes"
+      },
+      {
+        "Tool": "CHETAH",
+        "Bioc": "CHETAH"
+      },
+      {
+        "Tool": "CIPR"
+      },
+      {
+        "Tool": "Clustergrammer2",
+        "PyPI": "clustergrammer2"
+      },
+      {
+        "Tool": "ClusterMap"
+      },
+      {
+        "Tool": "clustermole",
+        "CRAN": "clustermole"
+      },
+      {
+        "Tool": "clustifyr",
+        "Bioc": "clustifyr"
+      },
+      {
+        "Tool": "deCS"
+      },
+      {
+        "Tool": "DeepSort"
+      },
+      {
+        "Tool": "DEGAS"
+      },
+      {
+        "Tool": "DevKidCC"
+      },
+      {
+        "Tool": "DigitalCellSorter",
+        "PyPI": "DigitalCellSorter"
+      },
+      {
+        "Tool": "dincta"
+      },
+      {
+        "Tool": "DistMap"
+      },
+      {
+        "Tool": "DropLasso"
+      },
+      {
+        "Tool": "DSAVE-M"
+      },
+      {
+        "Tool": "DSAVE-R"
+      },
+      {
+        "Tool": "DSINMF"
+      },
+      {
+        "Tool": "ELeFHAnt"
+      },
+      {
+        "Tool": "ELSA"
+      },
+      {
+        "Tool": "FateID",
+        "CRAN": "FateID"
+      },
+      {
+        "Tool": "FRmatch"
+      },
+      {
+        "Tool": "Garnett"
+      },
+      {
+        "Tool": "gCAnno"
+      },
+      {
+        "Tool": "GraphCS"
+      },
+      {
+        "Tool": "HieRFIT"
+      },
+      {
+        "Tool": "HPL"
+      },
+      {
+        "Tool": "hscScore"
+      },
+      {
+        "Tool": "IBMR"
+      },
+      {
+        "Tool": "ikarus",
+        "PyPI": "ikarus"
+      },
+      {
+        "Tool": "ImmClassifier"
+      },
+      {
+        "Tool": "INSISTC"
+      },
+      {
+        "Tool": "IRIS-FGM",
+        "Bioc": "IRISFGM"
+      },
+      {
+        "Tool": "ItClust",
+        "PyPI": "ItClust"
+      },
+      {
+        "Tool": "JIND"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "kmermaid"
+      },
+      {
+        "Tool": "KPNN"
+      },
+      {
+        "Tool": "LAmbDA"
+      },
+      {
+        "Tool": "LANTSA",
+        "PyPI": "lantsa"
+      },
+      {
+        "Tool": "MACA",
+        "PyPI": "MACA-Python"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MarkerCount",
+        "PyPI": "MarkerCount"
+      },
+      {
+        "Tool": "MARS"
+      },
+      {
+        "Tool": "matchSCore2"
+      },
+      {
+        "Tool": "Matilda"
+      },
+      {
+        "Tool": "MetaNeighbor",
+        "Bioc": "MetaNeighbor"
+      },
+      {
+        "Tool": "MIMOSCA"
+      },
+      {
+        "Tool": "Moana",
+        "PyPI": "moana"
+      },
+      {
+        "Tool": "mtSC",
+        "PyPI": "mtSC"
+      },
+      {
+        "Tool": "N-ACT"
+      },
+      {
+        "Tool": "NeuCA",
+        "Bioc": "NeuCA"
+      },
+      {
+        "Tool": "northstar",
+        "PyPI": "northstar"
+      },
+      {
+        "Tool": "OnClass",
+        "PyPI": "OnClass"
+      },
+      {
+        "Tool": "ParaDPMM"
+      },
+      {
+        "Tool": "Pollock"
+      },
+      {
+        "Tool": "ProjecTILs"
+      },
+      {
+        "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "rSuperCT"
+      },
+      {
+        "Tool": "scAdapt"
+      },
+      {
+        "Tool": "SCALEX",
+        "PyPI": "scalex"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "scAnCluster"
+      },
+      {
+        "Tool": "scAnnotatR",
+        "Bioc": "scAnnotatR"
+      },
+      {
+        "Tool": "scASK"
+      },
+      {
+        "Tool": "scATOMIC"
+      },
+      {
+        "Tool": "scBERT"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "scCATCH",
+        "CRAN": "scCATCH"
+      },
+      {
+        "Tool": "scClassifR"
+      },
+      {
+        "Tool": "scClassify",
+        "Bioc": "scClassify"
+      },
+      {
+        "Tool": "scConsensus"
+      },
+      {
+        "Tool": "scDECAF"
+      },
+      {
+        "Tool": "scDeepHash"
+      },
+      {
+        "Tool": "scDeepSort"
+      },
+      {
+        "Tool": "scDetect"
+      },
+      {
+        "Tool": "scDHA",
+        "CRAN": "scDHA"
+      },
+      {
+        "Tool": "scdney"
+      },
+      {
+        "Tool": "SCEVAN"
+      },
+      {
+        "Tool": "scfind"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGate"
+      },
+      {
+        "Tool": "scGraph"
+      },
+      {
+        "Tool": "scHPL",
+        "PyPI": "scHPL"
+      },
+      {
+        "Tool": "scIAE"
+      },
+      {
+        "Tool": "SciBet"
+      },
+      {
+        "Tool": "scID"
+      },
+      {
+        "Tool": "SCINA",
+        "CRAN": "SCINA"
+      },
+      {
+        "Tool": "scMAGIC"
+      },
+      {
+        "Tool": "scmap",
+        "Bioc": "scmap"
+      },
+      {
+        "Tool": "SCMAPpy",
+        "PyPI": "scmappy"
+      },
+      {
+        "Tool": "scMatch"
+      },
+      {
+        "Tool": "scMCA"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scMRA"
+      },
+      {
+        "Tool": "scMRMA"
+      },
+      {
+        "Tool": "scNym",
+        "PyPI": "scnym"
+      },
+      {
+        "Tool": "scPred"
+      },
+      {
+        "Tool": "scPretrain"
+      },
+      {
+        "Tool": "scProject",
+        "PyPI": "scProject"
+      },
+      {
+        "Tool": "scReClassify",
+        "Bioc": "scClassify"
+      },
+      {
+        "Tool": "SCSA"
+      },
+      {
+        "Tool": "scSimClassify"
+      },
+      {
+        "Tool": "scSorter",
+        "CRAN": "scSorter"
+      },
+      {
+        "Tool": "scTGIF",
+        "Bioc": "scTGIF"
+      },
+      {
+        "Tool": "scTHI",
+        "Bioc": "scTHI"
+      },
+      {
+        "Tool": "scTOP",
+        "PyPI": "scTOP"
+      },
+      {
+        "Tool": "scTree"
+      },
+      {
+        "Tool": "ScType"
+      },
+      {
+        "Tool": "scTyper"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "SELINA"
+      },
+      {
+        "Tool": "sfaira",
+        "PyPI": "sfaira"
+      },
+      {
+        "Tool": "sigGCN"
+      },
+      {
+        "Tool": "SignacX",
+        "CRAN": "SignacX"
+      },
+      {
+        "Tool": "SIMS",
+        "PyPI": "scsims"
+      },
+      {
+        "Tool": "simspec"
+      },
+      {
+        "Tool": "SINC"
+      },
+      {
+        "Tool": "Sincast"
+      },
+      {
+        "Tool": "SingleCellNet"
+      },
+      {
+        "Tool": "SingleCellSignalR",
+        "Bioc": "SingleCellSignalR"
+      },
+      {
+        "Tool": "SingleR",
+        "Bioc": "SingleR"
+      },
+      {
+        "Tool": "speckle"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "Superscan"
+      },
+      {
+        "Tool": "Symphony",
+        "CRAN": "symphony"
+      },
+      {
+        "Tool": "TILPRED"
+      },
+      {
+        "Tool": "UNIFAN"
+      },
+      {
+        "Tool": "VISION"
+      }
+    ]
+  },
+  {
+    "Category": "Clustering",
+    "Description": "Unsupervised grouping of cells based on expression profiles",
+    "Tools": [
+      {
+        "Tool": "ACTION"
+      },
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "ADClust"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "ASAP"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "ASURAT",
+        "Bioc": "ASURAT"
+      },
+      {
+        "Tool": "BackSPIN",
+        "PyPI": "backspinpy"
+      },
+      {
+        "Tool": "BAMMSC"
+      },
+      {
+        "Tool": "BasisVAE"
+      },
+      {
+        "Tool": "BayesEATS"
+      },
+      {
+        "Tool": "BEARscc",
+        "Bioc": "BEARscc"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "Beyondcell"
+      },
+      {
+        "Tool": "bigSCale"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "bindSC"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "BISCUIT"
+      },
+      {
+        "Tool": "BLGGM"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "BREM-SC"
+      },
+      {
+        "Tool": "BUSseq",
+        "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CAISC"
+      },
+      {
+        "Tool": "CALISTA"
+      },
+      {
+        "Tool": "CarDEC",
+        "PyPI": "cardec"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "CCNMF"
+      },
+      {
+        "Tool": "CDI"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "Cellar"
+      },
+      {
+        "Tool": "CellaRepertorium",
+        "Bioc": "CellaRepertorium"
+      },
+      {
+        "Tool": "CellBIC"
+      },
+      {
+        "Tool": "CellPath",
+        "PyPI": "cellpath"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "CellSIUS"
+      },
+      {
+        "Tool": "chooseR"
+      },
+      {
+        "Tool": "CIDER",
+        "CRAN": "CIDER"
+      },
+      {
+        "Tool": "CIDR"
+      },
+      {
+        "Tool": "CiteFuse",
+        "Bioc": "CiteFuse"
+      },
+      {
+        "Tool": "ClonoCluster"
+      },
+      {
+        "Tool": "ClustAssess",
+        "CRAN": "ClustAssess"
+      },
+      {
+        "Tool": "cluster_diffex"
+      },
+      {
+        "Tool": "clusterExperiment",
+        "Bioc": "clusterExperiment"
+      },
+      {
+        "Tool": "Clustergrammer2",
+        "PyPI": "clustergrammer2"
+      },
+      {
+        "Tool": "ClusterMap"
+      },
+      {
+        "Tool": "ClusterMine"
+      },
+      {
+        "Tool": "cNMF",
+        "PyPI": "cnmf"
+      },
+      {
+        "Tool": "COAC"
+      },
+      {
+        "Tool": "Cobolt"
+      },
+      {
+        "Tool": "cola",
+        "Bioc": "cola"
+      },
+      {
+        "Tool": "CONCLUS",
+        "Bioc": "conclus"
+      },
+      {
+        "Tool": "CoNGA"
+      },
+      {
+        "Tool": "Conos",
+        "CRAN": "conos"
+      },
+      {
+        "Tool": "constclust",
+        "PyPI": "constclust"
+      },
+      {
+        "Tool": "CopulaGCN"
+      },
+      {
+        "Tool": "countClust",
+        "Bioc": "CountClust"
+      },
+      {
+        "Tool": "countland"
+      },
+      {
+        "Tool": "coupleCoC"
+      },
+      {
+        "Tool": "coupleCoC_plus"
+      },
+      {
+        "Tool": "CSMF"
+      },
+      {
+        "Tool": "CStreet",
+        "PyPI": "cstreet"
+      },
+      {
+        "Tool": "DC3"
+      },
+      {
+        "Tool": "DENDRO"
+      },
+      {
+        "Tool": "DendroSplit",
+        "PyPI": "dendrosplit"
+      },
+      {
+        "Tool": "densityCut"
+      },
+      {
+        "Tool": "DensityPath"
+      },
+      {
+        "Tool": "DepecheR",
+        "Bioc": "DepecheR"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "Dhaka"
+      },
+      {
+        "Tool": "DIEM"
+      },
+      {
+        "Tool": "DigitalCellSorter",
+        "PyPI": "DigitalCellSorter"
+      },
+      {
+        "Tool": "DIMMSC"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "DoubletFinder"
+      },
+      {
+        "Tool": "dragonsc"
+      },
+      {
+        "Tool": "dropClust"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "Dune",
+        "Bioc": "Dune"
+      },
+      {
+        "Tool": "DUSC"
+      },
+      {
+        "Tool": "ECLAIR",
+        "PyPI": "ECLAIR"
+      },
+      {
+        "Tool": "EDClust"
+      },
+      {
+        "Tool": "EMEP"
+      },
+      {
+        "Tool": "ENCORE"
+      },
+      {
+        "Tool": "ESAT"
+      },
+      {
+        "Tool": "eSPRESSO"
+      },
+      {
+        "Tool": "fasthplus",
+        "CRAN": "fasthplus"
+      },
+      {
+        "Tool": "FEAST",
+        "Bioc": "FEAST"
+      },
+      {
+        "Tool": "FEATS",
+        "PyPI": "feats"
+      },
+      {
+        "Tool": "flotilla",
+        "PyPI": "flotilla"
+      },
+      {
+        "Tool": "FlowGrid",
+        "PyPI": "FlowGrid"
+      },
+      {
+        "Tool": "forest-fire-clustering",
+        "PyPI": "forest-fire-clustering"
+      },
+      {
+        "Tool": "FORKS"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "GapClust"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "gficf"
+      },
+      {
+        "Tool": "GiniClust"
+      },
+      {
+        "Tool": "GiniClust2"
+      },
+      {
+        "Tool": "GiniClust3",
+        "PyPI": "giniclust3"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "GraphSCC"
+      },
+      {
+        "Tool": "HGC",
+        "Bioc": "HGC"
+      },
+      {
+        "Tool": "HiDeF",
+        "PyPI": "hidef"
+      },
+      {
+        "Tool": "hypercluster",
+        "PyPI": "hypercluster"
+      },
+      {
+        "Tool": "ICAT",
+        "PyPI": "icat-sc"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "IKAP"
+      },
+      {
+        "Tool": "ILoReg",
+        "Bioc": "ILoReg"
+      },
+      {
+        "Tool": "inferCNVpy",
+        "PyPI": "infercnvpy"
+      },
+      {
+        "Tool": "IRIS-FGM",
+        "Bioc": "IRISFGM"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "IsoCell"
+      },
+      {
+        "Tool": "ItClust",
+        "PyPI": "ItClust"
+      },
+      {
+        "Tool": "iterClust",
+        "Bioc": "iterClust"
+      },
+      {
+        "Tool": "jackstraw"
+      },
+      {
+        "Tool": "JOINT"
+      },
+      {
+        "Tool": "JSNMF_py",
+        "PyPI": "JSNMF-py"
+      },
+      {
+        "Tool": "JSOM"
+      },
+      {
+        "Tool": "jSRC"
+      },
+      {
+        "Tool": "K2Taxonomer"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "KMD"
+      },
+      {
+        "Tool": "LAK"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "LinQView"
+      },
+      {
+        "Tool": "LTMGSCA"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MarkovHC"
+      },
+      {
+        "Tool": "mbkmeans",
+        "Bioc": "mbkmeans"
+      },
+      {
+        "Tool": "mcap"
+      },
+      {
+        "Tool": "MCXpress"
+      },
+      {
+        "Tool": "MELD",
+        "PyPI": "meld"
+      },
+      {
+        "Tool": "MetaCell"
+      },
+      {
+        "Tool": "metacells",
+        "PyPI": "metacells"
+      },
+      {
+        "Tool": "MetaNeighbor",
+        "Bioc": "MetaNeighbor"
+      },
+      {
+        "Tool": "MicroCellClust"
+      },
+      {
+        "Tool": "minicore"
+      },
+      {
+        "Tool": "MitoHEAR",
+        "CRAN": "MitoHEAR"
+      },
+      {
+        "Tool": "MLG"
+      },
+      {
+        "Tool": "mmutil"
+      },
+      {
+        "Tool": "Moana",
+        "PyPI": "moana"
+      },
+      {
+        "Tool": "MOFA2",
+        "Bioc": "MOFA2",
+        "PyPI": "mofapy2"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "MPSSC"
+      },
+      {
+        "Tool": "mrtree"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "MultiK"
+      },
+      {
+        "Tool": "MUSIC"
+      },
+      {
+        "Tool": "netSmooth",
+        "Bioc": "netSmooth"
+      },
+      {
+        "Tool": "nimfa",
+        "PyPI": "nimfa"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "PARC",
+        "PyPI": "parc"
+      },
+      {
+        "Tool": "pcaReduce"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "phiclust"
+      },
+      {
+        "Tool": "PhitestR",
+        "CRAN": "PhitestR"
+      },
+      {
+        "Tool": "PISCES"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "pLDA"
+      },
+      {
+        "Tool": "Polaratio"
+      },
+      {
+        "Tool": "PopAlign"
+      },
+      {
+        "Tool": "popsicleR"
+      },
+      {
+        "Tool": "PyMINEr"
+      },
+      {
+        "Tool": "PySCUBA",
+        "PyPI": "PySCUBA"
+      },
+      {
+        "Tool": "QUBIC2"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "RAFSIL"
+      },
+      {
+        "Tool": "Randomly",
+        "PyPI": "randomly"
+      },
+      {
+        "Tool": "RCA"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RcppML",
+        "CRAN": "RcppML"
+      },
+      {
+        "Tool": "RCSL",
+        "Bioc": "RCSL"
+      },
+      {
+        "Tool": "REBET"
+      },
+      {
+        "Tool": "reCAT"
+      },
+      {
+        "Tool": "RecursiveConsensusClustering"
+      },
+      {
+        "Tool": "redPATH"
+      },
+      {
+        "Tool": "RGGC"
+      },
+      {
+        "Tool": "RISC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "robustSingleCell"
+      },
+      {
+        "Tool": "ROGUE"
+      },
+      {
+        "Tool": "RSCORE"
+      },
+      {
+        "Tool": "RZiMM"
+      },
+      {
+        "Tool": "SAFE"
+      },
+      {
+        "Tool": "SAIC"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "SAUCIE"
+      },
+      {
+        "Tool": "sc-jnmf"
+      },
+      {
+        "Tool": "SC3",
+        "Bioc": "SC3"
+      },
+      {
+        "Tool": "SC3s",
+        "PyPI": "sc3s"
+      },
+      {
+        "Tool": "scAAnet",
+        "PyPI": "scAAnet"
+      },
+      {
+        "Tool": "scACE"
+      },
+      {
+        "Tool": "scAI"
+      },
+      {
+        "Tool": "scAIDE"
+      },
+      {
+        "Tool": "scAL"
+      },
+      {
+        "Tool": "scAMACE"
+      },
+      {
+        "Tool": "scAMACE_py"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "scAnCluster"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "SCATrEx",
+        "PyPI": "scatrex"
+      },
+      {
+        "Tool": "scCAEs"
+      },
+      {
+        "Tool": "SCCAF",
+        "PyPI": "SCCAF"
+      },
+      {
+        "Tool": "scCAN",
+        "CRAN": "scCAN"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "scCaps"
+      },
+      {
+        "Tool": "scCCESS"
+      },
+      {
+        "Tool": "scCLUE"
+      },
+      {
+        "Tool": "scClustBench"
+      },
+      {
+        "Tool": "scclusteval"
+      },
+      {
+        "Tool": "scDataviz",
+        "Bioc": "scDataviz"
+      },
+      {
+        "Tool": "scDblFinder",
+        "Bioc": "scDblFinder"
+      },
+      {
+        "Tool": "scDCC"
+      },
+      {
+        "Tool": "scDeepCluster"
+      },
+      {
+        "Tool": "scDHA",
+        "CRAN": "scDHA"
+      },
+      {
+        "Tool": "scdney"
+      },
+      {
+        "Tool": "scEC"
+      },
+      {
+        "Tool": "Scedar",
+        "PyPI": "scedar"
+      },
+      {
+        "Tool": "scEFSC"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "SCENA"
+      },
+      {
+        "Tool": "SCENIC",
+        "PyPI": "pyscenic"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scGNN"
+      },
+      {
+        "Tool": "scGPS",
+        "Bioc": "scGPS"
+      },
+      {
+        "Tool": "schist"
+      },
+      {
+        "Tool": "SCHNEL"
+      },
+      {
+        "Tool": "scicast",
+        "PyPI": "scicast"
+      },
+      {
+        "Tool": "SCILEN"
+      },
+      {
+        "Tool": "SCISSORS"
+      },
+      {
+        "Tool": "scLAPA"
+      },
+      {
+        "Tool": "scLCA"
+      },
+      {
+        "Tool": "scMC"
+      },
+      {
+        "Tool": "scMerge",
+        "Bioc": "scMerge"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scmixture"
+      },
+      {
+        "Tool": "scMuffin"
+      },
+      {
+        "Tool": "SCope"
+      },
+      {
+        "Tool": "scPanoView"
+      },
+      {
+        "Tool": "scPopCorn",
+        "PyPI": "scpopcorn"
+      },
+      {
+        "Tool": "scQcut"
+      },
+      {
+        "Tool": "scRAE"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scRCMF"
+      },
+      {
+        "Tool": "scRMD"
+      },
+      {
+        "Tool": "scRNA"
+      },
+      {
+        "Tool": "scROSHI"
+      },
+      {
+        "Tool": "SCSC"
+      },
+      {
+        "Tool": "scScope",
+        "PyPI": "scScope"
+      },
+      {
+        "Tool": "scSemiCluster"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scShaper"
+      },
+      {
+        "Tool": "scSO"
+      },
+      {
+        "Tool": "scSpace"
+      },
+      {
+        "Tool": "scTITANS"
+      },
+      {
+        "Tool": "scTriangulate",
+        "PyPI": "sctriangulate"
+      },
+      {
+        "Tool": "scUnifrac"
+      },
+      {
+        "Tool": "scVAE"
+      },
+      {
+        "Tool": "scVDMC"
+      },
+      {
+        "Tool": "scziDesk"
+      },
+      {
+        "Tool": "SEACells"
+      },
+      {
+        "Tool": "SEQUIN"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "SHARP"
+      },
+      {
+        "Tool": "SIGMA"
+      },
+      {
+        "Tool": "SimCD"
+      },
+      {
+        "Tool": "SIMLR",
+        "Bioc": "SIMLR",
+        "PyPI": "SIMLR"
+      },
+      {
+        "Tool": "simspec"
+      },
+      {
+        "Tool": "sincell",
+        "Bioc": "sincell"
+      },
+      {
+        "Tool": "SINCERA"
+      },
+      {
+        "Tool": "SinCHet"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "SingleCellSignalR",
+        "Bioc": "SingleCellSignalR"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "singlet",
+        "PyPI": "singlet"
+      },
+      {
+        "Tool": "SinNLRR"
+      },
+      {
+        "Tool": "SMSC"
+      },
+      {
+        "Tool": "SNN-Cliq"
+      },
+      {
+        "Tool": "SoptSC"
+      },
+      {
+        "Tool": "SOUP"
+      },
+      {
+        "Tool": "souporcell"
+      },
+      {
+        "Tool": "SPADE"
+      },
+      {
+        "Tool": "SpaOTsc"
+      },
+      {
+        "Tool": "SparseDC",
+        "CRAN": "SparseDC"
+      },
+      {
+        "Tool": "Specter"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "Spectrum",
+        "CRAN": "Spectrum"
+      },
+      {
+        "Tool": "sscClust"
+      },
+      {
+        "Tool": "SSrGE"
+      },
+      {
+        "Tool": "SuperCell"
+      },
+      {
+        "Tool": "TBSP",
+        "PyPI": "tbsp"
+      },
+      {
+        "Tool": "TooManyCells",
+        "CRAN": "TooManyCellsR"
+      },
+      {
+        "Tool": "Tree-SNE"
+      },
+      {
+        "Tool": "TSCAN",
+        "Bioc": "TSCAN"
+      },
+      {
+        "Tool": "UICPC"
+      },
+      {
+        "Tool": "UNCURL",
+        "PyPI": "uncurl-seq"
+      },
+      {
+        "Tool": "UNIFAN"
+      },
+      {
+        "Tool": "UniPath"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "VAE-SNE"
+      },
+      {
+        "Tool": "VPAC"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "WAT3R"
+      }
+    ]
+  },
+  {
+    "Category": "DifferentialExpression",
+    "Description": "Testing of differential expression across groups of cells",
+    "Tools": [
+      {
+        "Tool": "acorde"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "ASAP"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "BASiCS",
+        "Bioc": "BASiCS"
+      },
+      {
+        "Tool": "BDA"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "bigSCale"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "BPSC"
+      },
+      {
+        "Tool": "BSDE"
+      },
+      {
+        "Tool": "bseqsc"
+      },
+      {
+        "Tool": "ccdf",
+        "CRAN": "ccdf"
+      },
+      {
+        "Tool": "CCNMF"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "Cellar"
+      },
+      {
+        "Tool": "CellPath",
+        "PyPI": "cellpath"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "Cepo",
+        "Bioc": "Cepo"
+      },
+      {
+        "Tool": "CiteFuse",
+        "Bioc": "CiteFuse"
+      },
+      {
+        "Tool": "cluster_diffex"
+      },
+      {
+        "Tool": "cocoa"
+      },
+      {
+        "Tool": "Conos",
+        "CRAN": "conos"
+      },
+      {
+        "Tool": "countClust",
+        "Bioc": "CountClust"
+      },
+      {
+        "Tool": "D3E"
+      },
+      {
+        "Tool": "DCATS"
+      },
+      {
+        "Tool": "DECENT"
+      },
+      {
+        "Tool": "DESCEND"
+      },
+      {
+        "Tool": "DEsingle",
+        "Bioc": "DEsingle"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "distinct",
+        "Bioc": "distinct"
+      },
+      {
+        "Tool": "dropClust"
+      },
+      {
+        "Tool": "DTWScore"
+      },
+      {
+        "Tool": "FateID",
+        "CRAN": "FateID"
+      },
+      {
+        "Tool": "fishpond",
+        "Bioc": "fishpond"
+      },
+      {
+        "Tool": "geneBasisR"
+      },
+      {
+        "Tool": "gExcite"
+      },
+      {
+        "Tool": "glmGamPoi",
+        "Bioc": "glmGamPoi"
+      },
+      {
+        "Tool": "GPcounts"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "HIPPO",
+        "Bioc": "HIPPO"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "IDEAS"
+      },
+      {
+        "Tool": "IRIS-FGM",
+        "Bioc": "IRISFGM"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "ISOP"
+      },
+      {
+        "Tool": "iTALK"
+      },
+      {
+        "Tool": "JOINT"
+      },
+      {
+        "Tool": "K2Taxonomer"
+      },
+      {
+        "Tool": "Lamian"
+      },
+      {
+        "Tool": "Libra"
+      },
+      {
+        "Tool": "LineagePulse",
+        "Bioc": "LineagePulse"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "LTMGSCA"
+      },
+      {
+        "Tool": "M3Drop",
+        "Bioc": "M3Drop"
+      },
+      {
+        "Tool": "MacroPolo"
+      },
+      {
+        "Tool": "MAST",
+        "Bioc": "MAST"
+      },
+      {
+        "Tool": "MATTE",
+        "PyPI": "MATTE"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "Monod",
+        "PyPI": "monod"
+      },
+      {
+        "Tool": "MRFscRNAseq"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "muscat",
+        "Bioc": "muscat"
+      },
+      {
+        "Tool": "NaiveDE",
+        "PyPI": "NaiveDE"
+      },
+      {
+        "Tool": "NBID"
+      },
+      {
+        "Tool": "NEBULA",
+        "CRAN": "nebula"
+      },
+      {
+        "Tool": "Normalisr",
+        "PyPI": "normalisr"
+      },
+      {
+        "Tool": "ODEGRfinder"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "PIMseq"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "PopAlign"
+      },
+      {
+        "Tool": "POWSC",
+        "Bioc": "POWSC"
+      },
+      {
+        "Tool": "PseudotimeDE"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "RayleighSelection"
+      },
+      {
+        "Tool": "RCAv2"
+      },
+      {
+        "Tool": "ROSeq"
+      },
+      {
+        "Tool": "ROSeq-R",
+        "Bioc": "ROSeq"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAMstrt"
+      },
+      {
+        "Tool": "SC2P"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scBT"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "scCODE"
+      },
+      {
+        "Tool": "scConsensus"
+      },
+      {
+        "Tool": "scDD",
+        "Bioc": "scDD"
+      },
+      {
+        "Tool": "scDDboost"
+      },
+      {
+        "Tool": "SCDE",
+        "Bioc": "scde"
+      },
+      {
+        "Tool": "scDEA"
+      },
+      {
+        "Tool": "scEC"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "scGen",
+        "PyPI": "scgen"
+      },
+      {
+        "Tool": "schema",
+        "PyPI": "schema-learn"
+      },
+      {
+        "Tool": "SCHNAPPs"
+      },
+      {
+        "Tool": "Scillus"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "SCPattern"
+      },
+      {
+        "Tool": "scREhurdle"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scShapes",
+        "Bioc": "scShapes"
+      },
+      {
+        "Tool": "sctransform",
+        "CRAN": "sctransform"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SigEMD"
+      },
+      {
+        "Tool": "signac"
+      },
+      {
+        "Tool": "SimCD"
+      },
+      {
+        "Tool": "SINCERA"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "singleCellHaystack",
+        "CRAN": "singleCellHaystack"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "SwarnSeq"
+      },
+      {
+        "Tool": "switchde",
+        "Bioc": "switchde"
+      },
+      {
+        "Tool": "TASC"
+      },
+      {
+        "Tool": "tn_test",
+        "PyPI": "truncated-normal"
+      },
+      {
+        "Tool": "TooManyCells",
+        "CRAN": "TooManyCellsR"
+      },
+      {
+        "Tool": "tradeSeq",
+        "Bioc": "tradeSeq"
+      },
+      {
+        "Tool": "Tweedieverse"
+      },
+      {
+        "Tool": "TWO-SIGMA",
+        "CRAN": "twosigma"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "uSORT",
+        "Bioc": "uSORT"
+      },
+      {
+        "Tool": "VEGA"
+      },
+      {
+        "Tool": "VITAE",
+        "PyPI": "pyvitae"
+      },
+      {
+        "Tool": "waddR",
+        "Bioc": "waddR"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "ZIAQ"
+      },
+      {
+        "Tool": "zingeR"
+      }
+    ]
+  },
+  {
+    "Category": "DimensionalityReduction",
+    "Description": "Projection of cells into a lower dimensional space",
+    "Tools": [
+      {
+        "Tool": "ACTION"
+      },
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "ADClust"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "Augur"
+      },
+      {
+        "Tool": "BayesPrism"
+      },
+      {
+        "Tool": "BC_tSNE",
+        "CRAN": "bcTSNE"
+      },
+      {
+        "Tool": "BENISSE"
+      },
+      {
+        "Tool": "Beyondcell"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "ccNet",
+        "PyPI": "ccnet"
+      },
+      {
+        "Tool": "CCNMF"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "Cellar"
+      },
+      {
+        "Tool": "CellID",
+        "Bioc": "CelliD"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "CellTrails",
+        "Bioc": "CellTrails"
+      },
+      {
+        "Tool": "cFIT"
+      },
+      {
+        "Tool": "Chord"
+      },
+      {
+        "Tool": "CIDR"
+      },
+      {
+        "Tool": "ClonoCluster"
+      },
+      {
+        "Tool": "cluster_diffex"
+      },
+      {
+        "Tool": "cNMF",
+        "PyPI": "cnmf"
+      },
+      {
+        "Tool": "Cobolt"
+      },
+      {
+        "Tool": "CoGAPs",
+        "Bioc": "CoGAPS"
+      },
+      {
+        "Tool": "cola",
+        "Bioc": "cola"
+      },
+      {
+        "Tool": "compass"
+      },
+      {
+        "Tool": "CONCLUS",
+        "Bioc": "conclus"
+      },
+      {
+        "Tool": "Connectome"
+      },
+      {
+        "Tool": "Conos",
+        "CRAN": "conos"
+      },
+      {
+        "Tool": "contrastiveVI",
+        "PyPI": "contrastive-vi"
+      },
+      {
+        "Tool": "CopulaGCN"
+      },
+      {
+        "Tool": "corral",
+        "Bioc": "corral"
+      },
+      {
+        "Tool": "countClust",
+        "Bioc": "CountClust"
+      },
+      {
+        "Tool": "coupledAE-patchseq"
+      },
+      {
+        "Tool": "CPA"
+      },
+      {
+        "Tool": "CPLVM",
+        "PyPI": "cplvm"
+      },
+      {
+        "Tool": "CSMF"
+      },
+      {
+        "Tool": "CStreet",
+        "PyPI": "cstreet"
+      },
+      {
+        "Tool": "Cyclum"
+      },
+      {
+        "Tool": "D-EE"
+      },
+      {
+        "Tool": "DCA_R",
+        "CRAN": "DCA"
+      },
+      {
+        "Tool": "DEEF"
+      },
+      {
+        "Tool": "DeepCycle"
+      },
+      {
+        "Tool": "DeepSEM"
+      },
+      {
+        "Tool": "DEN"
+      },
+      {
+        "Tool": "DensityPath"
+      },
+      {
+        "Tool": "densvis",
+        "Bioc": "densvis"
+      },
+      {
+        "Tool": "densVis"
+      },
+      {
+        "Tool": "destiny",
+        "Bioc": "destiny"
+      },
+      {
+        "Tool": "Dhaka"
+      },
+      {
+        "Tool": "DIALOGUE"
+      },
+      {
+        "Tool": "DigitalCellSorter",
+        "PyPI": "DigitalCellSorter"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "dmatch"
+      },
+      {
+        "Tool": "DoubletFinder"
+      },
+      {
+        "Tool": "DRA"
+      },
+      {
+        "Tool": "DrivAER"
+      },
+      {
+        "Tool": "dropClust"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "DTAE"
+      },
+      {
+        "Tool": "EDGE"
+      },
+      {
+        "Tool": "ELSA"
+      },
+      {
+        "Tool": "EMBEDR"
+      },
+      {
+        "Tool": "EMEP"
+      },
+      {
+        "Tool": "ENHANCE"
+      },
+      {
+        "Tool": "ESAT"
+      },
+      {
+        "Tool": "eSPRESSO"
+      },
+      {
+        "Tool": "eSVD"
+      },
+      {
+        "Tool": "FastProject",
+        "PyPI": "FastProject"
+      },
+      {
+        "Tool": "FiRE",
+        "CRAN": "FiRE"
+      },
+      {
+        "Tool": "flotilla",
+        "PyPI": "flotilla"
+      },
+      {
+        "Tool": "Fugue"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "geneBasisR"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "GeneVector"
+      },
+      {
+        "Tool": "geosketch",
+        "PyPI": "geosketch"
+      },
+      {
+        "Tool": "gficf"
+      },
+      {
+        "Tool": "GiniClust"
+      },
+      {
+        "Tool": "GiniClust3",
+        "PyPI": "giniclust3"
+      },
+      {
+        "Tool": "GLM-PCA",
+        "CRAN": "glmpca"
+      },
+      {
+        "Tool": "GLUER"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "GrandPrix"
+      },
+      {
+        "Tool": "graph-sc",
+        "PyPI": "graph-sc"
+      },
+      {
+        "Tool": "GraphEmbed",
+        "PyPI": "graphembed"
+      },
+      {
+        "Tool": "h-tSNE"
+      },
+      {
+        "Tool": "Haisu"
+      },
+      {
+        "Tool": "Harmony",
+        "CRAN": "harmony"
+      },
+      {
+        "Tool": "HD-AE"
+      },
+      {
+        "Tool": "HIPPO",
+        "Bioc": "HIPPO"
+      },
+      {
+        "Tool": "hsslda"
+      },
+      {
+        "Tool": "I-Impute",
+        "PyPI": "i-impute"
+      },
+      {
+        "Tool": "iasva",
+        "Bioc": "iasva"
+      },
+      {
+        "Tool": "ICAnet"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "inferCNVpy",
+        "PyPI": "infercnvpy"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "ivis",
+        "PyPI": "ivis"
+      },
+      {
+        "Tool": "jackstraw"
+      },
+      {
+        "Tool": "JSOM"
+      },
+      {
+        "Tool": "Jvis",
+        "PyPI": "Jvis-learn"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "LandSCENT"
+      },
+      {
+        "Tool": "LANTSA",
+        "PyPI": "lantsa"
+      },
+      {
+        "Tool": "learn2count"
+      },
+      {
+        "Tool": "LIGER",
+        "CRAN": "rliger"
+      },
+      {
+        "Tool": "LinQView"
+      },
+      {
+        "Tool": "LTMGSCA"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MAGIC",
+        "CRAN": "Rmagic",
+        "PyPI": "magic-impute"
+      },
+      {
+        "Tool": "MARS"
+      },
+      {
+        "Tool": "Matilda"
+      },
+      {
+        "Tool": "MATTE",
+        "PyPI": "MATTE"
+      },
+      {
+        "Tool": "MCXpress"
+      },
+      {
+        "Tool": "MELD",
+        "PyPI": "meld"
+      },
+      {
+        "Tool": "Miscell"
+      },
+      {
+        "Tool": "mmutil"
+      },
+      {
+        "Tool": "Moana",
+        "PyPI": "moana"
+      },
+      {
+        "Tool": "MOFA",
+        "PyPI": "mofapy"
+      },
+      {
+        "Tool": "MOFA2",
+        "Bioc": "MOFA2",
+        "PyPI": "mofapy2"
+      },
+      {
+        "Tool": "Monet",
+        "PyPI": "monet"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "mpCMF"
+      },
+      {
+        "Tool": "mrtree"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "Multiscale_PHATE",
+        "PyPI": "multiscale-phate"
+      },
+      {
+        "Tool": "MultiVelo",
+        "PyPI": "multivelo"
+      },
+      {
+        "Tool": "MURP"
+      },
+      {
+        "Tool": "netNMF-sc",
+        "PyPI": "netNMFsc"
+      },
+      {
+        "Tool": "netSmooth",
+        "Bioc": "netSmooth"
+      },
+      {
+        "Tool": "netsne"
+      },
+      {
+        "Tool": "NewWave",
+        "Bioc": "NewWave"
+      },
+      {
+        "Tool": "NIFA"
+      },
+      {
+        "Tool": "nimfa",
+        "PyPI": "nimfa"
+      },
+      {
+        "Tool": "novoSpaRc",
+        "PyPI": "novosparc"
+      },
+      {
+        "Tool": "OCAT",
+        "PyPI": "OCAT"
+      },
+      {
+        "Tool": "ODEGRfinder"
+      },
+      {
+        "Tool": "OnlinePCA"
+      },
+      {
+        "Tool": "OpenVisuMap"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "Palantir",
+        "PyPI": "palantir"
+      },
+      {
+        "Tool": "PALMO",
+        "CRAN": "PALMO"
+      },
+      {
+        "Tool": "PCAone"
+      },
+      {
+        "Tool": "pCMF"
+      },
+      {
+        "Tool": "pcqc"
+      },
+      {
+        "Tool": "pCreode",
+        "PyPI": "pcreode"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "PHATE",
+        "CRAN": "phateR",
+        "PyPI": "phate"
+      },
+      {
+        "Tool": "PhEMD",
+        "Bioc": "phemd"
+      },
+      {
+        "Tool": "PISCES"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "pmVAE"
+      },
+      {
+        "Tool": "PopAlign"
+      },
+      {
+        "Tool": "Portal",
+        "PyPI": "portal-sc"
+      },
+      {
+        "Tool": "ProjecTILs"
+      },
+      {
+        "Tool": "Pseudocell_Tracer"
+      },
+      {
+        "Tool": "PyMINEr"
+      },
+      {
+        "Tool": "qSNE"
+      },
+      {
+        "Tool": "quasildr",
+        "PyPI": "quasildr"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "RAFSIL"
+      },
+      {
+        "Tool": "Randomly",
+        "PyPI": "randomly"
+      },
+      {
+        "Tool": "RayleighSelection"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RcppML",
+        "CRAN": "RcppML"
+      },
+      {
+        "Tool": "Regionvelocity"
+      },
+      {
+        "Tool": "RISC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "robustSingleCell"
+      },
+      {
+        "Tool": "rpca",
+        "CRAN": "rpca"
+      },
+      {
+        "Tool": "rusty_axe",
+        "PyPI": "rusty-axe-bbrener1"
+      },
+      {
+        "Tool": "RVAgene"
+      },
+      {
+        "Tool": "SageNet",
+        "PyPI": "sagenet"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "SAUCIE"
+      },
+      {
+        "Tool": "SAVER-X"
+      },
+      {
+        "Tool": "sc-compReg"
+      },
+      {
+        "Tool": "SCA",
+        "PyPI": "shannonca"
+      },
+      {
+        "Tool": "scAdapt"
+      },
+      {
+        "Tool": "scAEGAN"
+      },
+      {
+        "Tool": "scAEspy",
+        "PyPI": "scaespy"
+      },
+      {
+        "Tool": "scAI"
+      },
+      {
+        "Tool": "SCALEX",
+        "PyPI": "scalex"
+      },
+      {
+        "Tool": "scAlign",
+        "Bioc": "scAlign"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scAR"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scASK"
+      },
+      {
+        "Tool": "Scater",
+        "Bioc": "scater"
+      },
+      {
+        "Tool": "scbean",
+        "PyPI": "scbean"
+      },
+      {
+        "Tool": "scCAEs"
+      },
+      {
+        "Tool": "scCaps"
+      },
+      {
+        "Tool": "scCCESS"
+      },
+      {
+        "Tool": "scDA"
+      },
+      {
+        "Tool": "scDART"
+      },
+      {
+        "Tool": "scDataviz",
+        "Bioc": "scDataviz"
+      },
+      {
+        "Tool": "scDeepCluster"
+      },
+      {
+        "Tool": "scDGN"
+      },
+      {
+        "Tool": "scDHA",
+        "CRAN": "scDHA"
+      },
+      {
+        "Tool": "Scedar",
+        "PyPI": "scedar"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "SCENA"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scETM",
+        "PyPI": "scETM"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGAE"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "SCHNAPPs"
+      },
+      {
+        "Tool": "scHPF"
+      },
+      {
+        "Tool": "scicast",
+        "PyPI": "scicast"
+      },
+      {
+        "Tool": "scIHPF"
+      },
+      {
+        "Tool": "scINSIGHT",
+        "CRAN": "scINSIGHT"
+      },
+      {
+        "Tool": "SCISSORS"
+      },
+      {
+        "Tool": "scITD",
+        "CRAN": "scITD"
+      },
+      {
+        "Tool": "scLINE"
+      },
+      {
+        "Tool": "scMAGS",
+        "PyPI": "scmags"
+      },
+      {
+        "Tool": "SCMER",
+        "PyPI": "scmer"
+      },
+      {
+        "Tool": "scMerge",
+        "Bioc": "scMerge"
+      },
+      {
+        "Tool": "scMetric"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scmixture"
+      },
+      {
+        "Tool": "scMVAE"
+      },
+      {
+        "Tool": "scNBMF"
+      },
+      {
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
+      },
+      {
+        "Tool": "scPanoView"
+      },
+      {
+        "Tool": "scPCA",
+        "Bioc": "scPCA"
+      },
+      {
+        "Tool": "scPhere"
+      },
+      {
+        "Tool": "scPred"
+      },
+      {
+        "Tool": "scQuint"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scRCMF"
+      },
+      {
+        "Tool": "SCRL"
+      },
+      {
+        "Tool": "scRMD"
+      },
+      {
+        "Tool": "scRNA"
+      },
+      {
+        "Tool": "scry",
+        "Bioc": "scry"
+      },
+      {
+        "Tool": "scSampler",
+        "PyPI": "scsampler"
+      },
+      {
+        "Tool": "scSemiAE"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scShaper"
+      },
+      {
+        "Tool": "scSO"
+      },
+      {
+        "Tool": "scSpace"
+      },
+      {
+        "Tool": "scSVA"
+      },
+      {
+        "Tool": "scTenifoldNet",
+        "CRAN": "scTenifoldNet"
+      },
+      {
+        "Tool": "scTenifoldpy",
+        "PyPI": "scTenifoldpy"
+      },
+      {
+        "Tool": "scTGIF",
+        "Bioc": "scTGIF"
+      },
+      {
+        "Tool": "scTHI",
+        "Bioc": "scTHI"
+      },
+      {
+        "Tool": "scTour",
+        "PyPI": "sctour"
+      },
+      {
+        "Tool": "scUnifrac"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "scvis"
+      },
+      {
+        "Tool": "scziDesk"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "sfaira",
+        "PyPI": "sfaira"
+      },
+      {
+        "Tool": "SHARP"
+      },
+      {
+        "Tool": "SIMBA"
+      },
+      {
+        "Tool": "SIMLR",
+        "Bioc": "SIMLR",
+        "PyPI": "SIMLR"
+      },
+      {
+        "Tool": "simspec"
+      },
+      {
+        "Tool": "sincell",
+        "Bioc": "sincell"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "singlet",
+        "PyPI": "singlet"
+      },
+      {
+        "Tool": "SinNLRR"
+      },
+      {
+        "Tool": "SISUA",
+        "PyPI": "sisua"
+      },
+      {
+        "Tool": "slalom",
+        "Bioc": "slalom"
+      },
+      {
+        "Tool": "sleepwalk",
+        "CRAN": "sleepwalk"
+      },
+      {
+        "Tool": "slingshot",
+        "Bioc": "slingshot"
+      },
+      {
+        "Tool": "SMURF",
+        "PyPI": "smurf-imputation"
+      },
+      {
+        "Tool": "SoptSC"
+      },
+      {
+        "Tool": "SPADE"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "Sphetcher"
+      },
+      {
+        "Tool": "SPRING"
+      },
+      {
+        "Tool": "sscClust"
+      },
+      {
+        "Tool": "StabMap"
+      },
+      {
+        "Tool": "supCPM"
+      },
+      {
+        "Tool": "SWNE"
+      },
+      {
+        "Tool": "TCM"
+      },
+      {
+        "Tool": "TedSim"
+      },
+      {
+        "Tool": "Tempora"
+      },
+      {
+        "Tool": "TinGa"
+      },
+      {
+        "Tool": "TopOMetry",
+        "PyPI": "topometry"
+      },
+      {
+        "Tool": "tricycle",
+        "Bioc": "tricycle"
+      },
+      {
+        "Tool": "trVAE",
+        "PyPI": "trVAE"
+      },
+      {
+        "Tool": "TSEE"
+      },
+      {
+        "Tool": "UNCURL",
+        "PyPI": "uncurl-seq"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "VAE-SNE"
+      },
+      {
+        "Tool": "VAMF"
+      },
+      {
+        "Tool": "VASC"
+      },
+      {
+        "Tool": "VECTOR"
+      },
+      {
+        "Tool": "VEGA"
+      },
+      {
+        "Tool": "velociraptor",
+        "Bioc": "velociraptor"
+      },
+      {
+        "Tool": "VeloRep"
+      },
+      {
+        "Tool": "VeloViz",
+        "Bioc": "veloviz"
+      },
+      {
+        "Tool": "VisCello"
+      },
+      {
+        "Tool": "VISION"
+      },
+      {
+        "Tool": "VITAE",
+        "PyPI": "pyvitae"
+      },
+      {
+        "Tool": "VPAC"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "ZIFA"
+      },
+      {
+        "Tool": "ZINB-WaVE",
+        "Bioc": "zinbwave"
+      }
+    ]
+  },
+  {
+    "Category": "ExpressionPatterns",
+    "Description": "Detection of genes that change expression across a trajectory",
+    "Tools": [
+      {
+        "Tool": "BioTIP",
+        "Bioc": "BioTIP"
+      },
+      {
+        "Tool": "BranchedGP",
+        "PyPI": "BranchedGP"
+      },
+      {
+        "Tool": "ccNet",
+        "PyPI": "ccnet"
+      },
+      {
+        "Tool": "cellAlign"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "cna",
+        "PyPI": "cna"
+      },
+      {
+        "Tool": "CSHMM-TF"
+      },
+      {
+        "Tool": "DeLorean",
+        "CRAN": "DeLorean"
+      },
+      {
+        "Tool": "DPT"
+      },
+      {
+        "Tool": "GeneSwitches"
+      },
+      {
+        "Tool": "GPcounts"
+      },
+      {
+        "Tool": "GPseudoClust"
+      },
+      {
+        "Tool": "Hopper"
+      },
+      {
+        "Tool": "ISOP"
+      },
+      {
+        "Tool": "LineagePulse",
+        "Bioc": "LineagePulse"
+      },
+      {
+        "Tool": "MATCHER",
+        "PyPI": "pymatcher"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "novoSpaRc",
+        "PyPI": "novosparc"
+      },
+      {
+        "Tool": "OscoNet"
+      },
+      {
+        "Tool": "Ouija"
+      },
+      {
+        "Tool": "ouijaflow"
+      },
+      {
+        "Tool": "Palantir",
+        "PyPI": "palantir"
+      },
+      {
+        "Tool": "PseudotimeDE"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scGTM"
+      },
+      {
+        "Tool": "scHOT",
+        "Bioc": "scHOT"
+      },
+      {
+        "Tool": "scHPF"
+      },
+      {
+        "Tool": "SCIMITAR"
+      },
+      {
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
+      },
+      {
+        "Tool": "SCPattern"
+      },
+      {
+        "Tool": "SCUBA",
+        "PyPI": "PySCUBA"
+      },
+      {
+        "Tool": "SEPA"
+      },
+      {
+        "Tool": "signac"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "STREAM"
+      },
+      {
+        "Tool": "switchde",
+        "Bioc": "switchde"
+      },
+      {
+        "Tool": "tradeSeq",
+        "Bioc": "tradeSeq"
+      },
+      {
+        "Tool": "trendsceek"
+      },
+      {
+        "Tool": "VIA",
+        "PyPI": "pyVIA"
+      },
+      {
+        "Tool": "WaveCrest"
+      },
+      {
+        "Tool": "Wishbone",
+        "PyPI": "wishbone-dev"
+      }
+    ]
+  },
+  {
+    "Category": "GeneFiltering",
+    "Description": "Removal of lowly expressed or otherwise uninformative genes",
+    "Tools": [
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "ASAP"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "BackSPIN",
+        "PyPI": "backspinpy"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "Cobolt"
+      },
+      {
+        "Tool": "DeLorean",
+        "CRAN": "DeLorean"
+      },
+      {
+        "Tool": "DendroSplit",
+        "PyPI": "dendrosplit"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "DIEM"
+      },
+      {
+        "Tool": "eSPRESSO"
+      },
+      {
+        "Tool": "FORKS"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "jackstraw"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MATTE",
+        "PyPI": "MATTE"
+      },
+      {
+        "Tool": "McImpute"
+      },
+      {
+        "Tool": "MCXpress"
+      },
+      {
+        "Tool": "MicroCellClust"
+      },
+      {
+        "Tool": "mmutil"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "OGFSC"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "Randomly",
+        "PyPI": "randomly"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RCSL",
+        "Bioc": "RCSL"
+      },
+      {
+        "Tool": "Regionvelocity"
+      },
+      {
+        "Tool": "ROGUE"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "sc-REnF"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scDHA",
+        "CRAN": "scDHA"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "SCEnt",
+        "CRAN": "SCEnt"
+      },
+      {
+        "Tool": "scFeatureFilter",
+        "Bioc": "scFeatureFilter"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scMAGS",
+        "PyPI": "scmags"
+      },
+      {
+        "Tool": "scone",
+        "Bioc": "scone"
+      },
+      {
+        "Tool": "scprep",
+        "PyPI": "scprep"
+      },
+      {
+        "Tool": "SCQC"
+      },
+      {
+        "Tool": "scry",
+        "Bioc": "scry"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scVelo",
+        "PyPI": "scvelo"
+      },
+      {
+        "Tool": "SEGtool"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SHARP"
+      },
+      {
+        "Tool": "SIMBA"
+      },
+      {
+        "Tool": "SINCERA"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "singlet",
+        "PyPI": "singlet"
+      },
+      {
+        "Tool": "uSORT",
+        "Bioc": "uSORT"
+      }
+    ]
+  },
+  {
+    "Category": "GeneNetworks",
+    "Description": "Identification or use of co-regulated gene networks",
+    "Tools": [
+      {
+        "Tool": "ACTION"
+      },
+      {
+        "Tool": "ADC"
+      },
+      {
+        "Tool": "aLDG"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "AUCell",
+        "Bioc": "AUCell"
+      },
+      {
+        "Tool": "BEELINE"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "BioTIP",
+        "Bioc": "BioTIP"
+      },
+      {
+        "Tool": "BITFAM"
+      },
+      {
+        "Tool": "BLGGM"
+      },
+      {
+        "Tool": "BTR"
+      },
+      {
+        "Tool": "CancerInSilico",
+        "Bioc": "CancerInSilico"
+      },
+      {
+        "Tool": "CARDAMOM"
+      },
+      {
+        "Tool": "CausalDAG",
+        "PyPI": "causaldag"
+      },
+      {
+        "Tool": "CCSN"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "cell2cell",
+        "PyPI": "cell2cell"
+      },
+      {
+        "Tool": "CellCall"
+      },
+      {
+        "Tool": "CellChat"
+      },
+      {
+        "Tool": "CellOracle"
+      },
+      {
+        "Tool": "CellPhoneDB",
+        "PyPI": "CellPhoneDB"
+      },
+      {
+        "Tool": "celltalker"
+      },
+      {
+        "Tool": "CeSpGRN"
+      },
+      {
+        "Tool": "CeTF",
+        "Bioc": "CeTF"
+      },
+      {
+        "Tool": "CNNC"
+      },
+      {
+        "Tool": "COAC"
+      },
+      {
+        "Tool": "compass"
+      },
+      {
+        "Tool": "Connectome"
+      },
+      {
+        "Tool": "COSLIR"
+      },
+      {
+        "Tool": "CrossTalkeR"
+      },
+      {
+        "Tool": "CSHMM-TF"
+      },
+      {
+        "Tool": "CSN"
+      },
+      {
+        "Tool": "CSOmap"
+      },
+      {
+        "Tool": "cvCovEst",
+        "CRAN": "cvCovEst"
+      },
+      {
+        "Tool": "CytoTalk"
+      },
+      {
+        "Tool": "decoupler",
+        "PyPI": "decoupler"
+      },
+      {
+        "Tool": "DeepDRIM"
+      },
+      {
+        "Tool": "DeepSEM"
+      },
+      {
+        "Tool": "DIRECT-NET"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "DiSiR"
+      },
+      {
+        "Tool": "Domino"
+      },
+      {
+        "Tool": "dynDeepDRIM"
+      },
+      {
+        "Tool": "EEISP",
+        "PyPI": "eeisp"
+      },
+      {
+        "Tool": "fcoex",
+        "Bioc": "fcoex"
+      },
+      {
+        "Tool": "flotilla",
+        "PyPI": "flotilla"
+      },
+      {
+        "Tool": "FUNKI"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "GeneVector"
+      },
+      {
+        "Tool": "GLUE",
+        "PyPI": "scglue"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "GRISLI"
+      },
+      {
+        "Tool": "GRNUlar"
+      },
+      {
+        "Tool": "GRNVBEM"
+      },
+      {
+        "Tool": "HARISSA",
+        "PyPI": "harissa"
+      },
+      {
+        "Tool": "hbfm"
+      },
+      {
+        "Tool": "HurdleNormal"
+      },
+      {
+        "Tool": "ICAnet"
+      },
+      {
+        "Tool": "ICELLNET"
+      },
+      {
+        "Tool": "Inferelator",
+        "PyPI": "inferelator"
+      },
+      {
+        "Tool": "INSISTC"
+      },
+      {
+        "Tool": "InterCellar",
+        "Bioc": "InterCellar"
+      },
+      {
+        "Tool": "InterCellDB"
+      },
+      {
+        "Tool": "iQcell"
+      },
+      {
+        "Tool": "IReNA"
+      },
+      {
+        "Tool": "IRIS-FGM",
+        "Bioc": "IRISFGM"
+      },
+      {
+        "Tool": "iTALK"
+      },
+      {
+        "Tool": "JGNsc"
+      },
+      {
+        "Tool": "KPNN"
+      },
+      {
+        "Tool": "LandSCENT"
+      },
+      {
+        "Tool": "LEAP",
+        "CRAN": "LEAP"
+      },
+      {
+        "Tool": "LIANA"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "locCSN",
+        "PyPI": "locCSN"
+      },
+      {
+        "Tool": "LRLoop"
+      },
+      {
+        "Tool": "MAST",
+        "Bioc": "MAST"
+      },
+      {
+        "Tool": "MEBOCOST"
+      },
+      {
+        "Tool": "MOSCATO"
+      },
+      {
+        "Tool": "MTGO-SC"
+      },
+      {
+        "Tool": "MuDCoD"
+      },
+      {
+        "Tool": "NATMI"
+      },
+      {
+        "Tool": "Neighbor-seq"
+      },
+      {
+        "Tool": "netNMF-sc",
+        "PyPI": "netNMFsc"
+      },
+      {
+        "Tool": "netSmooth",
+        "Bioc": "netSmooth"
+      },
+      {
+        "Tool": "NetworkInference"
+      },
+      {
+        "Tool": "NEUROeSTIMator"
+      },
+      {
+        "Tool": "nichenetr"
+      },
+      {
+        "Tool": "NICHES"
+      },
+      {
+        "Tool": "Normalisr",
+        "PyPI": "normalisr"
+      },
+      {
+        "Tool": "OmicInt",
+        "CRAN": "OmicInt"
+      },
+      {
+        "Tool": "ORIGINS"
+      },
+      {
+        "Tool": "Pando"
+      },
+      {
+        "Tool": "PISCES"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "PyMINEr"
+      },
+      {
+        "Tool": "RSCORE"
+      },
+      {
+        "Tool": "SageNet",
+        "PyPI": "sagenet"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SBDN"
+      },
+      {
+        "Tool": "sc-compReg"
+      },
+      {
+        "Tool": "scBonita"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "scCaps"
+      },
+      {
+        "Tool": "scConnect",
+        "PyPI": "scConnect"
+      },
+      {
+        "Tool": "scCorr"
+      },
+      {
+        "Tool": "scdiff",
+        "PyPI": "scdiff"
+      },
+      {
+        "Tool": "scDiffCom",
+        "CRAN": "scDiffCom"
+      },
+      {
+        "Tool": "scdNet"
+      },
+      {
+        "Tool": "SCENIC",
+        "PyPI": "pyscenic"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scFBA"
+      },
+      {
+        "Tool": "scFEA"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "SCHiRM"
+      },
+      {
+        "Tool": "scHumanNet"
+      },
+      {
+        "Tool": "SCIMITAR"
+      },
+      {
+        "Tool": "SCINET"
+      },
+      {
+        "Tool": "scITD",
+        "CRAN": "scITD"
+      },
+      {
+        "Tool": "scLINE"
+      },
+      {
+        "Tool": "scLink",
+        "CRAN": "scLink"
+      },
+      {
+        "Tool": "scMLnet"
+      },
+      {
+        "Tool": "scMomentum"
+      },
+      {
+        "Tool": "scNetViz"
+      },
+      {
+        "Tool": "scNPF"
+      },
+      {
+        "Tool": "SCNS"
+      },
+      {
+        "Tool": "SCODE"
+      },
+      {
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
+      },
+      {
+        "Tool": "scover"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scriabin"
+      },
+      {
+        "Tool": "Scribe"
+      },
+      {
+        "Tool": "SCRL"
+      },
+      {
+        "Tool": "scRutiNy",
+        "PyPI": "RNAscrutiny"
+      },
+      {
+        "Tool": "scSeqComm"
+      },
+      {
+        "Tool": "scTenifoldKnk",
+        "CRAN": "scTenifoldKnk"
+      },
+      {
+        "Tool": "scTenifoldNet",
+        "CRAN": "scTenifoldNet"
+      },
+      {
+        "Tool": "scTenifoldpy",
+        "PyPI": "scTenifoldpy"
+      },
+      {
+        "Tool": "scTensor",
+        "Bioc": "scTensor"
+      },
+      {
+        "Tool": "scTHI",
+        "Bioc": "scTHI"
+      },
+      {
+        "Tool": "SEPIRA",
+        "Bioc": "SEPIRA"
+      },
+      {
+        "Tool": "SERGIO",
+        "PyPI": "sergio-scSim"
+      },
+      {
+        "Tool": "ShareNet"
+      },
+      {
+        "Tool": "sigGCN"
+      },
+      {
+        "Tool": "SigHotSpotter"
+      },
+      {
+        "Tool": "SILGGM",
+        "CRAN": "SILGGM"
+      },
+      {
+        "Tool": "SimiC"
+      },
+      {
+        "Tool": "SINCERITIES"
+      },
+      {
+        "Tool": "SINGE"
+      },
+      {
+        "Tool": "SingleCellSignalR",
+        "Bioc": "SingleCellSignalR"
+      },
+      {
+        "Tool": "SpaOTsc"
+      },
+      {
+        "Tool": "SPaRTAN"
+      },
+      {
+        "Tool": "STARE"
+      },
+      {
+        "Tool": "SynergisticCore"
+      },
+      {
+        "Tool": "talklr"
+      },
+      {
+        "Tool": "TDL"
+      },
+      {
+        "Tool": "TENET"
+      },
+      {
+        "Tool": "TraSig"
+      },
+      {
+        "Tool": "Triangulate"
+      },
+      {
+        "Tool": "TRIPOD"
+      },
+      {
+        "Tool": "VEGA"
+      }
+    ]
+  },
+  {
+    "Category": "GeneSets",
+    "Description": "Testing for over representation or other uses of annotated gene sets",
+    "Tools": [
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "APL",
+        "Bioc": "APL"
+      },
+      {
+        "Tool": "ASURAT",
+        "Bioc": "ASURAT"
+      },
+      {
+        "Tool": "BEANIE"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "Beyondcell"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "CellCall"
+      },
+      {
+        "Tool": "CellID",
+        "Bioc": "CelliD"
+      },
+      {
+        "Tool": "CellLayers",
+        "PyPI": "CellLayers"
+      },
+      {
+        "Tool": "CellOracle"
+      },
+      {
+        "Tool": "CellTree",
+        "Bioc": "cellTree"
+      },
+      {
+        "Tool": "Cerebro"
+      },
+      {
+        "Tool": "CeTF",
+        "Bioc": "CeTF"
+      },
+      {
+        "Tool": "Clustergrammer2",
+        "PyPI": "clustergrammer2"
+      },
+      {
+        "Tool": "ClusterMine"
+      },
+      {
+        "Tool": "CNNC"
+      },
+      {
+        "Tool": "cocoa"
+      },
+      {
+        "Tool": "CoGAPs",
+        "Bioc": "CoGAPS"
+      },
+      {
+        "Tool": "cola",
+        "Bioc": "cola"
+      },
+      {
+        "Tool": "DPre"
+      },
+      {
+        "Tool": "DrivAER"
+      },
+      {
+        "Tool": "escape",
+        "Bioc": "escape"
+      },
+      {
+        "Tool": "FastProject",
+        "PyPI": "FastProject"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "GeneSwitches"
+      },
+      {
+        "Tool": "gficf"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "Hotspot",
+        "PyPI": "hotspotsc"
+      },
+      {
+        "Tool": "iDEA"
+      },
+      {
+        "Tool": "JGNsc"
+      },
+      {
+        "Tool": "JSNMF_py",
+        "PyPI": "JSNMF-py"
+      },
+      {
+        "Tool": "K2Taxonomer"
+      },
+      {
+        "Tool": "Lamian"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MAST",
+        "Bioc": "MAST"
+      },
+      {
+        "Tool": "MATTE",
+        "PyPI": "MATTE"
+      },
+      {
+        "Tool": "MCXpress"
+      },
+      {
+        "Tool": "MetaNeighbor",
+        "Bioc": "MetaNeighbor"
+      },
+      {
+        "Tool": "mitch",
+        "Bioc": "mitch"
+      },
+      {
+        "Tool": "MTGO-SC"
+      },
+      {
+        "Tool": "OnClass",
+        "PyPI": "OnClass"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "PyMINEr"
+      },
+      {
+        "Tool": "redPATH"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "scDataviz",
+        "Bioc": "scDataviz"
+      },
+      {
+        "Tool": "SCDE",
+        "Bioc": "scde"
+      },
+      {
+        "Tool": "scDECAF"
+      },
+      {
+        "Tool": "scdNet"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "schema",
+        "PyPI": "schema-learn"
+      },
+      {
+        "Tool": "scID"
+      },
+      {
+        "Tool": "Scillus"
+      },
+      {
+        "Tool": "SCINA",
+        "CRAN": "SCINA"
+      },
+      {
+        "Tool": "scINSIGHT",
+        "CRAN": "scINSIGHT"
+      },
+      {
+        "Tool": "scIVA"
+      },
+      {
+        "Tool": "scMappR",
+        "CRAN": "scMappR"
+      },
+      {
+        "Tool": "scMatch"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scmixture"
+      },
+      {
+        "Tool": "scMuffin"
+      },
+      {
+        "Tool": "SCope"
+      },
+      {
+        "Tool": "SCPA"
+      },
+      {
+        "Tool": "scprep",
+        "PyPI": "scprep"
+      },
+      {
+        "Tool": "scROSHI"
+      },
+      {
+        "Tool": "SCSA"
+      },
+      {
+        "Tool": "scSeqComm"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scTGIF",
+        "Bioc": "scTGIF"
+      },
+      {
+        "Tool": "SCUREL"
+      },
+      {
+        "Tool": "SEMITONES"
+      },
+      {
+        "Tool": "SEPA"
+      },
+      {
+        "Tool": "SEQUIN"
+      },
+      {
+        "Tool": "SigHotSpotter"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "SingleCellSignatureExplorer"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "singleseqgset"
+      },
+      {
+        "Tool": "slalom",
+        "Bioc": "slalom"
+      },
+      {
+        "Tool": "Tempora"
+      },
+      {
+        "Tool": "TWO-SIGMA",
+        "CRAN": "twosigma"
+      },
+      {
+        "Tool": "UCell",
+        "Bioc": "UCell"
+      },
+      {
+        "Tool": "UniPath"
+      },
+      {
+        "Tool": "VAM",
+        "CRAN": "VAM"
+      },
+      {
+        "Tool": "VISION"
+      },
+      {
+        "Tool": "vissE",
+        "Bioc": "vissE"
+      }
+    ]
+  },
+  {
+    "Category": "Haplotypes",
+    "Description": "Use or assignment of haplotypes",
+    "Tools": [
+      {
+        "Tool": "scHLAcount"
+      },
+      {
+        "Tool": "scphaser"
+      }
+    ]
+  },
+  {
+    "Category": "Immune",
+    "Description": "Assignment of receptor sequences and immune cell clonality",
+    "Tools": [
+      {
+        "Tool": "BALDR"
+      },
+      {
+        "Tool": "BASIC"
+      },
+      {
+        "Tool": "BENISSE"
+      },
+      {
+        "Tool": "BraCeR"
+      },
+      {
+        "Tool": "BRAPeS"
+      },
+      {
+        "Tool": "CellaRepertorium",
+        "Bioc": "CellaRepertorium"
+      },
+      {
+        "Tool": "CoNGA"
+      },
+      {
+        "Tool": "DALI"
+      },
+      {
+        "Tool": "dandelion",
+        "PyPI": "sc-dandelion"
+      },
+      {
+        "Tool": "dsb",
+        "CRAN": "dsb"
+      },
+      {
+        "Tool": "gExcite"
+      },
+      {
+        "Tool": "ImmClassifier"
+      },
+      {
+        "Tool": "immunarch",
+        "CRAN": "immunarch"
+      },
+      {
+        "Tool": "iTALK"
+      },
+      {
+        "Tool": "LRT"
+      },
+      {
+        "Tool": "ProjecTILs"
+      },
+      {
+        "Tool": "scanalysis"
+      },
+      {
+        "Tool": "scHLAcount"
+      },
+      {
+        "Tool": "scirpy",
+        "PyPI": "scirpy"
+      },
+      {
+        "Tool": "scTCRseq"
+      },
+      {
+        "Tool": "SignacX",
+        "CRAN": "SignacX"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "TILPRED"
+      },
+      {
+        "Tool": "Tobiko"
+      },
+      {
+        "Tool": "TraCeR"
+      },
+      {
+        "Tool": "TRAPeS",
+        "PyPI": "trapes"
+      },
+      {
+        "Tool": "TRUST4"
+      },
+      {
+        "Tool": "VDJPuzzle"
+      },
+      {
+        "Tool": "WAT3R"
+      }
+    ]
+  },
+  {
+    "Category": "Imputation",
+    "Description": "Estimation of expression where zeros have been observed",
+    "Tools": [
+      {
+        "Tool": "ADImpute",
+        "Bioc": "ADImpute"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "ALRA"
+      },
+      {
+        "Tool": "AutoClass"
+      },
+      {
+        "Tool": "AutoImpute"
+      },
+      {
+        "Tool": "bayNorm",
+        "Bioc": "bayNorm"
+      },
+      {
+        "Tool": "Bfimpute"
+      },
+      {
+        "Tool": "BISCUIT"
+      },
+      {
+        "Tool": "BUSseq",
+        "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CarDEC",
+        "PyPI": "cardec"
+      },
+      {
+        "Tool": "CellTools"
+      },
+      {
+        "Tool": "CIDR"
+      },
+      {
+        "Tool": "CMFImpute"
+      },
+      {
+        "Tool": "cTPnet",
+        "PyPI": "cTPnet"
+      },
+      {
+        "Tool": "DCA",
+        "PyPI": "DCA"
+      },
+      {
+        "Tool": "DECENT"
+      },
+      {
+        "Tool": "DECODE"
+      },
+      {
+        "Tool": "DeepImpute"
+      },
+      {
+        "Tool": "DEWAKSS",
+        "PyPI": "DEWAKSS"
+      },
+      {
+        "Tool": "DISC",
+        "PyPI": "disc"
+      },
+      {
+        "Tool": "DISCERN"
+      },
+      {
+        "Tool": "DrImpute",
+        "CRAN": "DrImpute"
+      },
+      {
+        "Tool": "DURIAN"
+      },
+      {
+        "Tool": "ENHANCE"
+      },
+      {
+        "Tool": "EnImpute"
+      },
+      {
+        "Tool": "EnTSSR"
+      },
+      {
+        "Tool": "FIESTA"
+      },
+      {
+        "Tool": "G2S3"
+      },
+      {
+        "Tool": "GNNImpute"
+      },
+      {
+        "Tool": "GraphSCI"
+      },
+      {
+        "Tool": "HIPPO",
+        "Bioc": "HIPPO"
+      },
+      {
+        "Tool": "I-Impute",
+        "PyPI": "i-impute"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "JOINT"
+      },
+      {
+        "Tool": "knn_smooth"
+      },
+      {
+        "Tool": "LATE"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "MAGIC",
+        "CRAN": "Rmagic",
+        "PyPI": "magic-impute"
+      },
+      {
+        "Tool": "McImpute"
+      },
+      {
+        "Tool": "miRSCAPE"
+      },
+      {
+        "Tool": "MOFA2",
+        "Bioc": "MOFA2",
+        "PyPI": "mofapy2"
+      },
+      {
+        "Tool": "mrtree"
+      },
+      {
+        "Tool": "NetImpute"
+      },
+      {
+        "Tool": "netNMF-sc",
+        "PyPI": "netNMFsc"
+      },
+      {
+        "Tool": "netSmooth",
+        "Bioc": "netSmooth"
+      },
+      {
+        "Tool": "PBLR"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "Randomly",
+        "PyPI": "randomly"
+      },
+      {
+        "Tool": "RECODE",
+        "PyPI": "screcode"
+      },
+      {
+        "Tool": "RESCUE",
+        "CRAN": "rescue"
+      },
+      {
+        "Tool": "SAUCIE"
+      },
+      {
+        "Tool": "SAVER",
+        "CRAN": "SAVER"
+      },
+      {
+        "Tool": "SAVER-X"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "SCC"
+      },
+      {
+        "Tool": "scDoc"
+      },
+      {
+        "Tool": "Scedar",
+        "PyPI": "scedar"
+      },
+      {
+        "Tool": "scGNN"
+      },
+      {
+        "Tool": "scHinter"
+      },
+      {
+        "Tool": "scIGANs"
+      },
+      {
+        "Tool": "scImpute"
+      },
+      {
+        "Tool": "scISR",
+        "CRAN": "scISR"
+      },
+      {
+        "Tool": "scLRTC"
+      },
+      {
+        "Tool": "scMOO"
+      },
+      {
+        "Tool": "scNPF"
+      },
+      {
+        "Tool": "scone",
+        "Bioc": "scone"
+      },
+      {
+        "Tool": "SCRABBLE"
+      },
+      {
+        "Tool": "scRecover",
+        "Bioc": "scRecover"
+      },
+      {
+        "Tool": "scRMD"
+      },
+      {
+        "Tool": "scScope",
+        "PyPI": "scScope"
+      },
+      {
+        "Tool": "scSDAE"
+      },
+      {
+        "Tool": "scTSSR"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "SDImpute"
+      },
+      {
+        "Tool": "SEDIM"
+      },
+      {
+        "Tool": "SERM"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SigEMD"
+      },
+      {
+        "Tool": "SIMPLEs"
+      },
+      {
+        "Tool": "UniPath"
+      },
+      {
+        "Tool": "VIPER"
+      },
+      {
+        "Tool": "WEDGE"
+      },
+      {
+        "Tool": "ZINBAE"
+      }
+    ]
+  },
+  {
+    "Category": "Integration",
+    "Description": "Combining of scRNA-seq datasets or integration with other single-cell data types",
+    "Tools": [
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "AWGAN",
+        "PyPI": "awgan"
+      },
+      {
+        "Tool": "BABEL"
+      },
+      {
+        "Tool": "BAMMSC"
+      },
+      {
+        "Tool": "BatchBench"
+      },
+      {
+        "Tool": "batchelor",
+        "Bioc": "batchelor"
+      },
+      {
+        "Tool": "BATMAN"
+      },
+      {
+        "Tool": "BayesEATS"
+      },
+      {
+        "Tool": "BayesPrism"
+      },
+      {
+        "Tool": "bbknn",
+        "PyPI": "bbknn"
+      },
+      {
+        "Tool": "BC_tSNE",
+        "CRAN": "bcTSNE"
+      },
+      {
+        "Tool": "BEER",
+        "Bioc": "beer"
+      },
+      {
+        "Tool": "BERMUDA"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "bindSC"
+      },
+      {
+        "Tool": "BIRD"
+      },
+      {
+        "Tool": "Bisque",
+        "CRAN": "BisqueRNA"
+      },
+      {
+        "Tool": "BREM-SC"
+      },
+      {
+        "Tool": "bseqsc"
+      },
+      {
+        "Tool": "BUSseq",
+        "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CAISC"
+      },
+      {
+        "Tool": "Canek",
+        "CRAN": "Canek"
+      },
+      {
+        "Tool": "CarDEC",
+        "PyPI": "cardec"
+      },
+      {
+        "Tool": "CCNMF"
+      },
+      {
+        "Tool": "cell2location",
+        "PyPI": "cell2location"
+      },
+      {
+        "Tool": "CellMixS",
+        "Bioc": "CellMixS"
+      },
+      {
+        "Tool": "CellOracle"
+      },
+      {
+        "Tool": "CellTrek"
+      },
+      {
+        "Tool": "cFIT"
+      },
+      {
+        "Tool": "CIDER",
+        "CRAN": "CIDER"
+      },
+      {
+        "Tool": "CITEseqCount",
+        "PyPI": "CITE-seq-Count"
+      },
+      {
+        "Tool": "CLEAR"
+      },
+      {
+        "Tool": "clonealign"
+      },
+      {
+        "Tool": "ClusterFoldSimilarity"
+      },
+      {
+        "Tool": "ClusterMap"
+      },
+      {
+        "Tool": "Cobolt"
+      },
+      {
+        "Tool": "Compartmap",
+        "Bioc": "compartmap"
+      },
+      {
+        "Tool": "CONICS"
+      },
+      {
+        "Tool": "Conos",
+        "CRAN": "conos"
+      },
+      {
+        "Tool": "corral",
+        "Bioc": "corral"
+      },
+      {
+        "Tool": "coupleCoC"
+      },
+      {
+        "Tool": "coupleCoC_plus"
+      },
+      {
+        "Tool": "coupledAE-patchseq"
+      },
+      {
+        "Tool": "cTPnet",
+        "PyPI": "cTPnet"
+      },
+      {
+        "Tool": "CytoSPACE"
+      },
+      {
+        "Tool": "DALI"
+      },
+      {
+        "Tool": "DC3"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "dincta"
+      },
+      {
+        "Tool": "dmatch"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "elasticC3"
+      },
+      {
+        "Tool": "ELeFHAnt"
+      },
+      {
+        "Tool": "EVI"
+      },
+      {
+        "Tool": "FastIntegration"
+      },
+      {
+        "Tool": "FEATS",
+        "PyPI": "feats"
+      },
+      {
+        "Tool": "FIRM"
+      },
+      {
+        "Tool": "Fugue"
+      },
+      {
+        "Tool": "GeneVector"
+      },
+      {
+        "Tool": "GLUE",
+        "PyPI": "scglue"
+      },
+      {
+        "Tool": "GLUER"
+      },
+      {
+        "Tool": "Harmony",
+        "CRAN": "harmony"
+      },
+      {
+        "Tool": "HD-AE"
+      },
+      {
+        "Tool": "HDMC"
+      },
+      {
+        "Tool": "ICAnet"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "iMAP",
+        "PyPI": "imap"
+      },
+      {
+        "Tool": "INSCT"
+      },
+      {
+        "Tool": "IReNA"
+      },
+      {
+        "Tool": "iSMNN"
+      },
+      {
+        "Tool": "JIND"
+      },
+      {
+        "Tool": "JSNMF_py",
+        "PyPI": "JSNMF-py"
+      },
+      {
+        "Tool": "JSOM"
+      },
+      {
+        "Tool": "Jvis",
+        "PyPI": "Jvis-learn"
+      },
+      {
+        "Tool": "kBET"
+      },
+      {
+        "Tool": "LAmbDA"
+      },
+      {
+        "Tool": "Lamian"
+      },
+      {
+        "Tool": "LIGER",
+        "CRAN": "rliger"
+      },
+      {
+        "Tool": "LinQView"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MAGAN"
+      },
+      {
+        "Tool": "MARS"
+      },
+      {
+        "Tool": "MAT2"
+      },
+      {
+        "Tool": "MATCHER",
+        "PyPI": "pymatcher"
+      },
+      {
+        "Tool": "matchSCore"
+      },
+      {
+        "Tool": "matchSCore2"
+      },
+      {
+        "Tool": "MELD",
+        "PyPI": "meld"
+      },
+      {
+        "Tool": "MIMOSCA"
+      },
+      {
+        "Tool": "MIND"
+      },
+      {
+        "Tool": "MIRA",
+        "PyPI": "mira-multiome"
+      },
+      {
+        "Tool": "MLG"
+      },
+      {
+        "Tool": "mmutil"
+      },
+      {
+        "Tool": "mnnpy",
+        "PyPI": "mnnpy"
+      },
+      {
+        "Tool": "MOFA",
+        "PyPI": "mofapy"
+      },
+      {
+        "Tool": "MOFA2",
+        "Bioc": "MOFA2",
+        "PyPI": "mofapy2"
+      },
+      {
+        "Tool": "Monet",
+        "PyPI": "monet"
+      },
+      {
+        "Tool": "mtSC",
+        "PyPI": "mtSC"
+      },
+      {
+        "Tool": "MultiMAP"
+      },
+      {
+        "Tool": "MultiVelo",
+        "PyPI": "multivelo"
+      },
+      {
+        "Tool": "MuSiC"
+      },
+      {
+        "Tool": "NewWave",
+        "Bioc": "NewWave"
+      },
+      {
+        "Tool": "OCAT",
+        "PyPI": "OCAT"
+      },
+      {
+        "Tool": "OnClass",
+        "PyPI": "OnClass"
+      },
+      {
+        "Tool": "Pamona",
+        "PyPI": "pamona"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "PercentMaxDiff"
+      },
+      {
+        "Tool": "PhylEx"
+      },
+      {
+        "Tool": "Portal",
+        "PyPI": "portal-sc"
+      },
+      {
+        "Tool": "protaccel",
+        "PyPI": "protaccel"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "ResPAN",
+        "PyPI": "ResPAN"
+      },
+      {
+        "Tool": "RISC"
+      },
+      {
+        "Tool": "RNA-Sieve",
+        "PyPI": "rnasieve"
+      },
+      {
+        "Tool": "robustSingleCell"
+      },
+      {
+        "Tool": "ruvIIInb"
+      },
+      {
+        "Tool": "SAUCIE"
+      },
+      {
+        "Tool": "sc-compReg"
+      },
+      {
+        "Tool": "sc-Libra",
+        "PyPI": "sc-libra"
+      },
+      {
+        "Tool": "scACE"
+      },
+      {
+        "Tool": "scAEGAN"
+      },
+      {
+        "Tool": "scAEspy",
+        "PyPI": "scaespy"
+      },
+      {
+        "Tool": "scAI"
+      },
+      {
+        "Tool": "SCALEX",
+        "PyPI": "scalex"
+      },
+      {
+        "Tool": "scAlign",
+        "Bioc": "scAlign"
+      },
+      {
+        "Tool": "scAMACE"
+      },
+      {
+        "Tool": "scAMACE_py"
+      },
+      {
+        "Tool": "scanorama",
+        "PyPI": "scanorama"
+      },
+      {
+        "Tool": "scArches",
+        "PyPI": "scArches"
+      },
+      {
+        "Tool": "scBatch"
+      },
+      {
+        "Tool": "scbean",
+        "PyPI": "scbean"
+      },
+      {
+        "Tool": "scBio",
+        "CRAN": "scBio"
+      },
+      {
+        "Tool": "scConsensus"
+      },
+      {
+        "Tool": "scDART"
+      },
+      {
+        "Tool": "scDGN"
+      },
+      {
+        "Tool": "scETM",
+        "PyPI": "scETM"
+      },
+      {
+        "Tool": "scFBA"
+      },
+      {
+        "Tool": "scFeatures"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scGen",
+        "PyPI": "scgen"
+      },
+      {
+        "Tool": "schema",
+        "PyPI": "schema-learn"
+      },
+      {
+        "Tool": "scIB",
+        "PyPI": "scib"
+      },
+      {
+        "Tool": "SCIBER",
+        "CRAN": "SCIBER"
+      },
+      {
+        "Tool": "sciCAN"
+      },
+      {
+        "Tool": "scIHPF"
+      },
+      {
+        "Tool": "SCIM"
+      },
+      {
+        "Tool": "scIntegral",
+        "PyPI": "scintegral"
+      },
+      {
+        "Tool": "scipr",
+        "PyPI": "scipr"
+      },
+      {
+        "Tool": "scITD",
+        "CRAN": "scITD"
+      },
+      {
+        "Tool": "scJoint"
+      },
+      {
+        "Tool": "scLINE"
+      },
+      {
+        "Tool": "scMC"
+      },
+      {
+        "Tool": "scMerge",
+        "Bioc": "scMerge"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scMM"
+      },
+      {
+        "Tool": "scNCA"
+      },
+      {
+        "Tool": "scNPF"
+      },
+      {
+        "Tool": "scPOP",
+        "CRAN": "scPOP"
+      },
+      {
+        "Tool": "scPopCorn",
+        "PyPI": "scpopcorn"
+      },
+      {
+        "Tool": "scran",
+        "Bioc": "scran"
+      },
+      {
+        "Tool": "scRNABatchQC"
+      },
+      {
+        "Tool": "scSemiAE"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scSpace"
+      },
+      {
+        "Tool": "sctransform",
+        "CRAN": "sctransform"
+      },
+      {
+        "Tool": "scUnifrac"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "simspec"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "SMILE"
+      },
+      {
+        "Tool": "SMNN"
+      },
+      {
+        "Tool": "SpaOTsc"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "SSBER"
+      },
+      {
+        "Tool": "sscClust"
+      },
+      {
+        "Tool": "SSrGE"
+      },
+      {
+        "Tool": "StabMap"
+      },
+      {
+        "Tool": "STACAS"
+      },
+      {
+        "Tool": "Tangram",
+        "PyPI": "tangram-sc"
+      },
+      {
+        "Tool": "Trajan"
+      },
+      {
+        "Tool": "TRIPOD"
+      },
+      {
+        "Tool": "UnionCom",
+        "PyPI": "unioncom"
+      },
+      {
+        "Tool": "VIPCCA",
+        "PyPI": "vipcca"
+      }
+    ]
+  },
+  {
+    "Category": "Interactive",
+    "Description": "Tools with an interactive component or a graphical user interface",
+    "Tools": [
+      {
+        "Tool": "alevinQC",
+        "Bioc": "alevinQC"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "ASAP"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "AUCell",
+        "Bioc": "AUCell"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "CancerInSilico",
+        "Bioc": "CancerInSilico"
+      },
+      {
+        "Tool": "Cellar"
+      },
+      {
+        "Tool": "cellBrowser",
+        "PyPI": "cellbrowser"
+      },
+      {
+        "Tool": "CellexalVR"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellTrek"
+      },
+      {
+        "Tool": "CellView"
+      },
+      {
+        "Tool": "cellxgene",
+        "PyPI": "cellxgene"
+      },
+      {
+        "Tool": "cellxgene_VIP"
+      },
+      {
+        "Tool": "Cerebro"
+      },
+      {
+        "Tool": "CHETAH",
+        "Bioc": "CHETAH"
+      },
+      {
+        "Tool": "CIPR"
+      },
+      {
+        "Tool": "Cirrocumulus",
+        "PyPI": "cirrocumulus"
+      },
+      {
+        "Tool": "CiteFuse",
+        "Bioc": "CiteFuse"
+      },
+      {
+        "Tool": "Clustergrammer2",
+        "PyPI": "clustergrammer2"
+      },
+      {
+        "Tool": "FastProject",
+        "PyPI": "FastProject"
+      },
+      {
+        "Tool": "FEM"
+      },
+      {
+        "Tool": "flotilla",
+        "PyPI": "flotilla"
+      },
+      {
+        "Tool": "FLOWMAPR"
+      },
+      {
+        "Tool": "FRmatch"
+      },
+      {
+        "Tool": "FUNKI"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "GiniClust"
+      },
+      {
+        "Tool": "GLUER"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "i2dash",
+        "CRAN": "i2dash"
+      },
+      {
+        "Tool": "indeXplorer"
+      },
+      {
+        "Tool": "InterCellar",
+        "Bioc": "InterCellar"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "iscandar"
+      },
+      {
+        "Tool": "iSEE",
+        "Bioc": "iSEE"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "MAGIC",
+        "CRAN": "Rmagic",
+        "PyPI": "magic-impute"
+      },
+      {
+        "Tool": "MCXpress"
+      },
+      {
+        "Tool": "OEFinder"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "PySCUBA",
+        "PyPI": "PySCUBA"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "SC3",
+        "Bioc": "SC3"
+      },
+      {
+        "Tool": "scASK"
+      },
+      {
+        "Tool": "scClustViz"
+      },
+      {
+        "Tool": "scdiff",
+        "PyPI": "scdiff"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "SCelVis",
+        "PyPI": "scelvis"
+      },
+      {
+        "Tool": "scfind"
+      },
+      {
+        "Tool": "scGESTALT"
+      },
+      {
+        "Tool": "SCHNAPPs"
+      },
+      {
+        "Tool": "scicast",
+        "PyPI": "scicast"
+      },
+      {
+        "Tool": "scIVA"
+      },
+      {
+        "Tool": "Sciviewer",
+        "PyPI": "sciviewer"
+      },
+      {
+        "Tool": "scNetViz"
+      },
+      {
+        "Tool": "SCNS"
+      },
+      {
+        "Tool": "scone",
+        "Bioc": "scone"
+      },
+      {
+        "Tool": "SCope"
+      },
+      {
+        "Tool": "SCPattern"
+      },
+      {
+        "Tool": "scPhere"
+      },
+      {
+        "Tool": "scPlot",
+        "PyPI": "scplot"
+      },
+      {
+        "Tool": "scPower"
+      },
+      {
+        "Tool": "scran",
+        "Bioc": "scran"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scSO"
+      },
+      {
+        "Tool": "scSVA"
+      },
+      {
+        "Tool": "scTreeViz",
+        "Bioc": "scTreeViz"
+      },
+      {
+        "Tool": "scVirtualCyto"
+      },
+      {
+        "Tool": "SEPA"
+      },
+      {
+        "Tool": "SEQUIN"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "ShinyCell"
+      },
+      {
+        "Tool": "SigHotSpotter"
+      },
+      {
+        "Tool": "SinCHet"
+      },
+      {
+        "Tool": "SingleCellExplorer"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "SPRING"
+      },
+      {
+        "Tool": "STREAM"
+      },
+      {
+        "Tool": "TASIC"
+      },
+      {
+        "Tool": "TSCAN",
+        "Bioc": "TSCAN"
+      },
+      {
+        "Tool": "UNCURL",
+        "PyPI": "uncurl-seq"
+      },
+      {
+        "Tool": "uSORT",
+        "Bioc": "uSORT"
+      },
+      {
+        "Tool": "VisCello"
+      },
+      {
+        "Tool": "VISION"
+      },
+      {
+        "Tool": "visnormsc"
+      },
+      {
+        "Tool": "Vitessce"
+      },
+      {
+        "Tool": "WaveCrest"
+      },
+      {
+        "Tool": "WEDGE"
+      },
+      {
+        "Tool": "Wishbone",
+        "PyPI": "wishbone-dev"
+      }
+    ]
+  },
+  {
+    "Category": "MarkerGenes",
+    "Description": "Identification or use of genes that mark cell populations",
+    "Tools": [
+      {
+        "Tool": "activeSVC",
+        "PyPI": "activeSVC"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "APL",
+        "Bioc": "APL"
+      },
+      {
+        "Tool": "bigSCale"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "Bisque",
+        "CRAN": "BisqueRNA"
+      },
+      {
+        "Tool": "BUSseq",
+        "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "Cepo",
+        "Bioc": "Cepo"
+      },
+      {
+        "Tool": "CIPR"
+      },
+      {
+        "Tool": "ClonoCluster"
+      },
+      {
+        "Tool": "cluster_diffex"
+      },
+      {
+        "Tool": "clusterExperiment",
+        "Bioc": "clusterExperiment"
+      },
+      {
+        "Tool": "clustermole",
+        "CRAN": "clustermole"
+      },
+      {
+        "Tool": "clusterpval"
+      },
+      {
+        "Tool": "CombiROC",
+        "CRAN": "combiroc"
+      },
+      {
+        "Tool": "COMET",
+        "PyPI": "COMETSC"
+      },
+      {
+        "Tool": "CONCLUS",
+        "Bioc": "conclus"
+      },
+      {
+        "Tool": "Conos",
+        "CRAN": "conos"
+      },
+      {
+        "Tool": "COSG",
+        "PyPI": "cosg"
+      },
+      {
+        "Tool": "COSGR"
+      },
+      {
+        "Tool": "COT"
+      },
+      {
+        "Tool": "countland"
+      },
+      {
+        "Tool": "DepecheR",
+        "Bioc": "DepecheR"
+      },
+      {
+        "Tool": "DPre"
+      },
+      {
+        "Tool": "ENCORE"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "Garnett"
+      },
+      {
+        "Tool": "geneBasisR"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "genesorteR"
+      },
+      {
+        "Tool": "Hotspot",
+        "PyPI": "hotspotsc"
+      },
+      {
+        "Tool": "hsslda"
+      },
+      {
+        "Tool": "iasva",
+        "Bioc": "iasva"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "IKAP"
+      },
+      {
+        "Tool": "jackstraw"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "LIGER",
+        "CRAN": "rliger"
+      },
+      {
+        "Tool": "LINEAGE"
+      },
+      {
+        "Tool": "M3Drop",
+        "Bioc": "M3Drop"
+      },
+      {
+        "Tool": "MetaCell"
+      },
+      {
+        "Tool": "MGFR",
+        "Bioc": "MGFR"
+      },
+      {
+        "Tool": "MICTI",
+        "PyPI": "MICTI"
+      },
+      {
+        "Tool": "miloR",
+        "Bioc": "miloR"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "muscat",
+        "Bioc": "muscat"
+      },
+      {
+        "Tool": "NSForest"
+      },
+      {
+        "Tool": "OCAT",
+        "PyPI": "OCAT"
+      },
+      {
+        "Tool": "OnClass",
+        "PyPI": "OnClass"
+      },
+      {
+        "Tool": "Ouija"
+      },
+      {
+        "Tool": "pyHSICLasso",
+        "PyPI": "pyHSICLasso"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "RankCorr"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "redPATH"
+      },
+      {
+        "Tool": "RISC"
+      },
+      {
+        "Tool": "RZiMM"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "scAAnet",
+        "PyPI": "scAAnet"
+      },
+      {
+        "Tool": "scAI"
+      },
+      {
+        "Tool": "scAIDE"
+      },
+      {
+        "Tool": "scAnCluster"
+      },
+      {
+        "Tool": "scAnnotatR",
+        "Bioc": "scAnnotatR"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scCATCH",
+        "CRAN": "scCATCH"
+      },
+      {
+        "Tool": "scDataviz",
+        "Bioc": "scDataviz"
+      },
+      {
+        "Tool": "Scedar",
+        "PyPI": "scedar"
+      },
+      {
+        "Tool": "scfind"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scGeneFit"
+      },
+      {
+        "Tool": "scGPS",
+        "Bioc": "scGPS"
+      },
+      {
+        "Tool": "scicast",
+        "PyPI": "scicast"
+      },
+      {
+        "Tool": "scID"
+      },
+      {
+        "Tool": "SCISSORS"
+      },
+      {
+        "Tool": "scIVA"
+      },
+      {
+        "Tool": "scMAGS",
+        "PyPI": "scmags"
+      },
+      {
+        "Tool": "scMC"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scmixture"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scTIM",
+        "PyPI": "sc_tim"
+      },
+      {
+        "Tool": "scTITANS"
+      },
+      {
+        "Tool": "scTree"
+      },
+      {
+        "Tool": "SEGtool"
+      },
+      {
+        "Tool": "SEMITONES"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "SHARP"
+      },
+      {
+        "Tool": "signac"
+      },
+      {
+        "Tool": "SignacX",
+        "CRAN": "SignacX"
+      },
+      {
+        "Tool": "SINCERA"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "singleCellHaystack",
+        "CRAN": "singleCellHaystack"
+      },
+      {
+        "Tool": "SingleCellSignalR",
+        "Bioc": "SingleCellSignalR"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "SPADE"
+      },
+      {
+        "Tool": "SparseDC",
+        "CRAN": "SparseDC"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "SPmarker"
+      },
+      {
+        "Tool": "SuperCell"
+      },
+      {
+        "Tool": "TSCAN",
+        "Bioc": "TSCAN"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "WaveCrest"
+      },
+      {
+        "Tool": "Wx"
+      }
+    ]
+  },
+  {
+    "Category": "Modality",
+    "Description": "Identification or use of modality in gene expression",
+    "Tools": [
+      {
+        "Tool": "anchor",
+        "PyPI": "anchor-bio"
+      },
+      {
+        "Tool": "DESCEND"
+      },
+      {
+        "Tool": "LTMGSCA"
+      },
+      {
+        "Tool": "M3S"
+      },
+      {
+        "Tool": "scCODA",
+        "PyPI": "scCODA"
+      },
+      {
+        "Tool": "SDAMS",
+        "Bioc": "SDAMS"
+      },
+      {
+        "Tool": "tascCODA",
+        "PyPI": "tascCODA"
+      }
+    ]
+  },
+  {
+    "Category": "Normalisation",
+    "Description": "Removal of unwanted variation that may affect results",
+    "Tools": [
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "ASAP"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "AutoImpute"
+      },
+      {
+        "Tool": "BASiCS",
+        "Bioc": "BASiCS"
+      },
+      {
+        "Tool": "bayNorm",
+        "Bioc": "bayNorm"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "bigSCale"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "BITFAM"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "CALISTA"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "cellAlign"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "CHETAH",
+        "Bioc": "CHETAH"
+      },
+      {
+        "Tool": "Citrus"
+      },
+      {
+        "Tool": "CONCLUS",
+        "Bioc": "conclus"
+      },
+      {
+        "Tool": "CStreet",
+        "PyPI": "cstreet"
+      },
+      {
+        "Tool": "DendroSplit",
+        "PyPI": "dendrosplit"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "Dino",
+        "Bioc": "Dino"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "dropClust"
+      },
+      {
+        "Tool": "dropsim"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "dsb",
+        "CRAN": "dsb"
+      },
+      {
+        "Tool": "dynverse"
+      },
+      {
+        "Tool": "fishpond",
+        "Bioc": "fishpond"
+      },
+      {
+        "Tool": "FORKS"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "gficf"
+      },
+      {
+        "Tool": "GiniClust"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "GRM"
+      },
+      {
+        "Tool": "GSFA"
+      },
+      {
+        "Tool": "iasva",
+        "Bioc": "iasva"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "ISnorm"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "LIGER",
+        "CRAN": "rliger"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "LinQView"
+      },
+      {
+        "Tool": "MAST",
+        "Bioc": "MAST"
+      },
+      {
+        "Tool": "MATTE",
+        "PyPI": "MATTE"
+      },
+      {
+        "Tool": "McImpute"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "MUREN"
+      },
+      {
+        "Tool": "netNMF-sc",
+        "PyPI": "netNMFsc"
+      },
+      {
+        "Tool": "Normalisr",
+        "PyPI": "normalisr"
+      },
+      {
+        "Tool": "OCAT",
+        "PyPI": "OCAT"
+      },
+      {
+        "Tool": "OEFinder"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "Palantir",
+        "PyPI": "palantir"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "PISCES"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "popsicleR"
+      },
+      {
+        "Tool": "PsiNorm"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RISC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "robustSingleCell"
+      },
+      {
+        "Tool": "ruvIIInb"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "SAMstrt"
+      },
+      {
+        "Tool": "Sanity"
+      },
+      {
+        "Tool": "SAUCIE"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scBatch"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scHinter"
+      },
+      {
+        "Tool": "SCHiRM"
+      },
+      {
+        "Tool": "scicast",
+        "PyPI": "scicast"
+      },
+      {
+        "Tool": "scID"
+      },
+      {
+        "Tool": "scITD",
+        "CRAN": "scITD"
+      },
+      {
+        "Tool": "scLVM",
+        "PyPI": "scLVM"
+      },
+      {
+        "Tool": "scMerge",
+        "Bioc": "scMerge"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scMRMA"
+      },
+      {
+        "Tool": "SCNorm",
+        "Bioc": "SCnorm"
+      },
+      {
+        "Tool": "scone",
+        "Bioc": "scone"
+      },
+      {
+        "Tool": "scPopCorn",
+        "PyPI": "scpopcorn"
+      },
+      {
+        "Tool": "scprep",
+        "PyPI": "scprep"
+      },
+      {
+        "Tool": "scran",
+        "Bioc": "scran"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scRecover",
+        "Bioc": "scRecover"
+      },
+      {
+        "Tool": "scScope",
+        "PyPI": "scScope"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scSpace"
+      },
+      {
+        "Tool": "scTenifoldNet",
+        "CRAN": "scTenifoldNet"
+      },
+      {
+        "Tool": "sctransform",
+        "CRAN": "sctransform"
+      },
+      {
+        "Tool": "scuttle",
+        "Bioc": "scuttle"
+      },
+      {
+        "Tool": "scVelo",
+        "PyPI": "scvelo"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "SHARP"
+      },
+      {
+        "Tool": "SIMBA"
+      },
+      {
+        "Tool": "SINCERA"
+      },
+      {
+        "Tool": "SingleCellSignalR",
+        "Bioc": "SingleCellSignalR"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "singlet",
+        "PyPI": "singlet"
+      },
+      {
+        "Tool": "SinNLRR"
+      },
+      {
+        "Tool": "speckle"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "STREAM"
+      },
+      {
+        "Tool": "SWNE"
+      },
+      {
+        "Tool": "TASC"
+      },
+      {
+        "Tool": "transformGamPoi",
+        "Bioc": "transformGamPoi"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "visnormsc"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "ZINB-WaVE",
+        "Bioc": "zinbwave"
+      }
+    ]
+  },
+  {
+    "Category": "Ordering",
+    "Description": "Ordering of cells along a trajectory",
+    "Tools": [
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "CALISTA"
+      },
+      {
+        "Tool": "CAPITAL",
+        "PyPI": "capital"
+      },
+      {
+        "Tool": "Capybara"
+      },
+      {
+        "Tool": "ccNet",
+        "PyPI": "ccnet"
+      },
+      {
+        "Tool": "cellAlign"
+      },
+      {
+        "Tool": "CellDrift",
+        "PyPI": "CellDrift"
+      },
+      {
+        "Tool": "CellPath",
+        "PyPI": "cellpath"
+      },
+      {
+        "Tool": "CellRank",
+        "PyPI": "cellrank"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "CellTrails",
+        "Bioc": "CellTrails"
+      },
+      {
+        "Tool": "CellTree",
+        "Bioc": "cellTree"
+      },
+      {
+        "Tool": "condiments",
+        "Bioc": "condiments"
+      },
+      {
+        "Tool": "CoSpar",
+        "PyPI": "cospar"
+      },
+      {
+        "Tool": "CSHMM"
+      },
+      {
+        "Tool": "CSHMM-TF"
+      },
+      {
+        "Tool": "CStreet",
+        "PyPI": "cstreet"
+      },
+      {
+        "Tool": "Cytopath",
+        "PyPI": "cytopath"
+      },
+      {
+        "Tool": "DCLEAR",
+        "CRAN": "DCLEAR"
+      },
+      {
+        "Tool": "DeepCycle"
+      },
+      {
+        "Tool": "DeepVelo",
+        "PyPI": "deepvelo"
+      },
+      {
+        "Tool": "DeLorean",
+        "CRAN": "DeLorean"
+      },
+      {
+        "Tool": "DensityPath"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "DPT"
+      },
+      {
+        "Tool": "DTFLOW"
+      },
+      {
+        "Tool": "DTWScore"
+      },
+      {
+        "Tool": "Dynamo"
+      },
+      {
+        "Tool": "dynverse"
+      },
+      {
+        "Tool": "ECLAIR",
+        "PyPI": "ECLAIR"
+      },
+      {
+        "Tool": "embeddr"
+      },
+      {
+        "Tool": "ESAT"
+      },
+      {
+        "Tool": "eSVD"
+      },
+      {
+        "Tool": "EVI"
+      },
+      {
+        "Tool": "FateCompass"
+      },
+      {
+        "Tool": "FORKS"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "GPcounts"
+      },
+      {
+        "Tool": "GPfates"
+      },
+      {
+        "Tool": "GPseudoClust"
+      },
+      {
+        "Tool": "GPseudoRank"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "GrandPrix"
+      },
+      {
+        "Tool": "HopLand"
+      },
+      {
+        "Tool": "k-branches"
+      },
+      {
+        "Tool": "Lamian"
+      },
+      {
+        "Tool": "LandSCENT"
+      },
+      {
+        "Tool": "LEAP",
+        "CRAN": "LEAP"
+      },
+      {
+        "Tool": "LINEAGE"
+      },
+      {
+        "Tool": "MAPiT"
+      },
+      {
+        "Tool": "MARGARET"
+      },
+      {
+        "Tool": "MATCHER",
+        "PyPI": "pymatcher"
+      },
+      {
+        "Tool": "MEDALT"
+      },
+      {
+        "Tool": "MERLoT"
+      },
+      {
+        "Tool": "MFA",
+        "Bioc": "mfa"
+      },
+      {
+        "Tool": "Millefy"
+      },
+      {
+        "Tool": "MIRA",
+        "PyPI": "mira-multiome"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "Mpath"
+      },
+      {
+        "Tool": "MultiVelo",
+        "PyPI": "multivelo"
+      },
+      {
+        "Tool": "MuTrans"
+      },
+      {
+        "Tool": "OscoNet"
+      },
+      {
+        "Tool": "Ouija"
+      },
+      {
+        "Tool": "ouijaflow"
+      },
+      {
+        "Tool": "Palantir",
+        "PyPI": "palantir"
+      },
+      {
+        "Tool": "PBA"
+      },
+      {
+        "Tool": "pCreode",
+        "PyPI": "pcreode"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "PhenoPath",
+        "Bioc": "phenopath"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "PRESCIENT",
+        "PyPI": "prescient"
+      },
+      {
+        "Tool": "protaccel",
+        "PyPI": "protaccel"
+      },
+      {
+        "Tool": "Pseudocell_Tracer"
+      },
+      {
+        "Tool": "pseudodynamics"
+      },
+      {
+        "Tool": "pseudoga"
+      },
+      {
+        "Tool": "pseudogp"
+      },
+      {
+        "Tool": "psupertime"
+      },
+      {
+        "Tool": "PySCUBA",
+        "PyPI": "PySCUBA"
+      },
+      {
+        "Tool": "quasildr",
+        "PyPI": "quasildr"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "RCSL",
+        "Bioc": "RCSL"
+      },
+      {
+        "Tool": "reCAT"
+      },
+      {
+        "Tool": "redPATH"
+      },
+      {
+        "Tool": "Regionvelocity"
+      },
+      {
+        "Tool": "Revelio"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "scDHA",
+        "CRAN": "scDHA"
+      },
+      {
+        "Tool": "scdiff",
+        "PyPI": "scdiff"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "SCENT"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scFates",
+        "PyPI": "scFates"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scGESTALT"
+      },
+      {
+        "Tool": "SCIMITAR"
+      },
+      {
+        "Tool": "SClineager"
+      },
+      {
+        "Tool": "scMomentum"
+      },
+      {
+        "Tool": "SCNS"
+      },
+      {
+        "Tool": "SCODE"
+      },
+      {
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
+      },
+      {
+        "Tool": "SCOUP"
+      },
+      {
+        "Tool": "SCOUT"
+      },
+      {
+        "Tool": "scPhere"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scShaper"
+      },
+      {
+        "Tool": "scTDA",
+        "PyPI": "scTDA"
+      },
+      {
+        "Tool": "scTour",
+        "PyPI": "sctour"
+      },
+      {
+        "Tool": "SCUBA",
+        "PyPI": "PySCUBA"
+      },
+      {
+        "Tool": "scVelo",
+        "PyPI": "scvelo"
+      },
+      {
+        "Tool": "sincell",
+        "Bioc": "sincell"
+      },
+      {
+        "Tool": "SLICE"
+      },
+      {
+        "Tool": "SLICER"
+      },
+      {
+        "Tool": "slingshot",
+        "Bioc": "slingshot"
+      },
+      {
+        "Tool": "SoptSC"
+      },
+      {
+        "Tool": "SOUP"
+      },
+      {
+        "Tool": "SPADE"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "StationaryOT"
+      },
+      {
+        "Tool": "STEMNET"
+      },
+      {
+        "Tool": "STREAM"
+      },
+      {
+        "Tool": "SuperCell"
+      },
+      {
+        "Tool": "TASIC"
+      },
+      {
+        "Tool": "TBSP",
+        "PyPI": "tbsp"
+      },
+      {
+        "Tool": "Tempora"
+      },
+      {
+        "Tool": "TinGa"
+      },
+      {
+        "Tool": "topslam"
+      },
+      {
+        "Tool": "TSCAN",
+        "Bioc": "TSCAN"
+      },
+      {
+        "Tool": "UNCURL",
+        "PyPI": "uncurl-seq"
+      },
+      {
+        "Tool": "UniPath"
+      },
+      {
+        "Tool": "UniTVelo",
+        "PyPI": "unitvelo"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "uSORT",
+        "Bioc": "uSORT"
+      },
+      {
+        "Tool": "VECTOR"
+      },
+      {
+        "Tool": "velociraptor",
+        "Bioc": "velociraptor"
+      },
+      {
+        "Tool": "velocyto",
+        "PyPI": "velocyto"
+      },
+      {
+        "Tool": "VeloRep"
+      },
+      {
+        "Tool": "VeTra"
+      },
+      {
+        "Tool": "VIA",
+        "PyPI": "pyVIA"
+      },
+      {
+        "Tool": "VITAE",
+        "PyPI": "pyvitae"
+      },
+      {
+        "Tool": "WaveCrest"
+      },
+      {
+        "Tool": "Wishbone",
+        "PyPI": "wishbone-dev"
+      },
+      {
+        "Tool": "wot",
+        "PyPI": "wot"
+      }
+    ]
+  },
+  {
+    "Category": "Perturbations",
+    "Description": "Analysis of induced perturbations such as drug effects",
+    "Tools": [
+      {
+        "Tool": "Augur"
+      },
+      {
+        "Tool": "Beyondcell"
+      },
+      {
+        "Tool": "CellDrift",
+        "PyPI": "CellDrift"
+      },
+      {
+        "Tool": "CellOracle"
+      },
+      {
+        "Tool": "contrastiveVI",
+        "PyPI": "contrastive-vi"
+      },
+      {
+        "Tool": "CPA"
+      },
+      {
+        "Tool": "GSFA"
+      },
+      {
+        "Tool": "ICAT",
+        "PyPI": "icat-sc"
+      },
+      {
+        "Tool": "MELD",
+        "PyPI": "meld"
+      },
+      {
+        "Tool": "MIMOSCA"
+      },
+      {
+        "Tool": "MUSIC"
+      },
+      {
+        "Tool": "PhEMD",
+        "Bioc": "phemd"
+      },
+      {
+        "Tool": "PopAlign"
+      },
+      {
+        "Tool": "PRESCIENT",
+        "PyPI": "prescient"
+      },
+      {
+        "Tool": "SCATTome"
+      },
+      {
+        "Tool": "scDEAL"
+      },
+      {
+        "Tool": "scGen",
+        "PyPI": "scgen"
+      },
+      {
+        "Tool": "scINSIGHT",
+        "CRAN": "scINSIGHT"
+      },
+      {
+        "Tool": "scMAGeCK",
+        "Bioc": "scMAGeCK"
+      },
+      {
+        "Tool": "scTenifoldKnk",
+        "CRAN": "scTenifoldKnk"
+      },
+      {
+        "Tool": "scTenifoldpy",
+        "PyPI": "scTenifoldpy"
+      },
+      {
+        "Tool": "secDrug"
+      },
+      {
+        "Tool": "trVAE",
+        "PyPI": "trVAE"
+      }
+    ]
+  },
+  {
+    "Category": "QualityControl",
+    "Description": "Removal of low-quality cells",
+    "Tools": [
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "airpart",
+        "Bioc": "airpart"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "BarMixer"
+      },
+      {
+        "Tool": "BatchBench"
+      },
+      {
+        "Tool": "bcbio",
+        "PyPI": "bcbio"
+      },
+      {
+        "Tool": "bcbioSingleCell"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "Cellar"
+      },
+      {
+        "Tool": "CellaRepertorium",
+        "Bioc": "CellaRepertorium"
+      },
+      {
+        "Tool": "CellBender"
+      },
+      {
+        "Tool": "Cellity",
+        "Bioc": "cellity"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "CellTagR"
+      },
+      {
+        "Tool": "Chord"
+      },
+      {
+        "Tool": "CiteFuse",
+        "Bioc": "CiteFuse"
+      },
+      {
+        "Tool": "countland"
+      },
+      {
+        "Tool": "CStreet",
+        "PyPI": "cstreet"
+      },
+      {
+        "Tool": "ddqc"
+      },
+      {
+        "Tool": "ddSeeker"
+      },
+      {
+        "Tool": "Demuxafy"
+      },
+      {
+        "Tool": "demuxlet"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "DIEM"
+      },
+      {
+        "Tool": "DigitalCellSorter",
+        "PyPI": "DigitalCellSorter"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "DoubletDecon"
+      },
+      {
+        "Tool": "DoubletDetection",
+        "PyPI": "doubletdetection"
+      },
+      {
+        "Tool": "DoubletFinder"
+      },
+      {
+        "Tool": "dropbead"
+      },
+      {
+        "Tool": "dropEst"
+      },
+      {
+        "Tool": "dropkick",
+        "PyPI": "dropkick"
+      },
+      {
+        "Tool": "DropletQC"
+      },
+      {
+        "Tool": "DropletUtils",
+        "Bioc": "DropletUtils"
+      },
+      {
+        "Tool": "dropSeqPipe",
+        "PyPI": "dropSeqPipe"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "EmptyNN"
+      },
+      {
+        "Tool": "EnsembleKQC"
+      },
+      {
+        "Tool": "Eoulsan"
+      },
+      {
+        "Tool": "fba",
+        "PyPI": "fba"
+      },
+      {
+        "Tool": "flotilla",
+        "PyPI": "flotilla"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "GMM-Demux",
+        "PyPI": "GMM-Demux"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "Ikura"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MAGIC",
+        "CRAN": "Rmagic",
+        "PyPI": "magic-impute"
+      },
+      {
+        "Tool": "MAST",
+        "Bioc": "MAST"
+      },
+      {
+        "Tool": "MetaCell"
+      },
+      {
+        "Tool": "miQC",
+        "Bioc": "miQC"
+      },
+      {
+        "Tool": "mmutil"
+      },
+      {
+        "Tool": "Moana",
+        "PyPI": "moana"
+      },
+      {
+        "Tool": "Monod",
+        "PyPI": "monod"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "MultiVelo",
+        "PyPI": "multivelo"
+      },
+      {
+        "Tool": "MUSIC"
+      },
+      {
+        "Tool": "Normalisr",
+        "PyPI": "normalisr"
+      },
+      {
+        "Tool": "OEFinder"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "Palantir",
+        "PyPI": "palantir"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "PISCES"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "popsicleR"
+      },
+      {
+        "Tool": "Randomly",
+        "PyPI": "randomly"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "ROGUE"
+      },
+      {
+        "Tool": "SampleQC"
+      },
+      {
+        "Tool": "SASCRiP",
+        "PyPI": "SASCRiP"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "scanalysis"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "Scater",
+        "Bioc": "scater"
+      },
+      {
+        "Tool": "scbean",
+        "PyPI": "scbean"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "scCB2",
+        "Bioc": "scCB2"
+      },
+      {
+        "Tool": "scDblFinder",
+        "Bioc": "scDblFinder"
+      },
+      {
+        "Tool": "scds",
+        "Bioc": "scds"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "SCHNAPPs"
+      },
+      {
+        "Tool": "Scillus"
+      },
+      {
+        "Tool": "scIVA"
+      },
+      {
+        "Tool": "scone",
+        "Bioc": "scone"
+      },
+      {
+        "Tool": "scPipe",
+        "Bioc": "scPipe"
+      },
+      {
+        "Tool": "scprep",
+        "PyPI": "scprep"
+      },
+      {
+        "Tool": "SCQC"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scRNABatchQC"
+      },
+      {
+        "Tool": "Scrublet",
+        "PyPI": "scrublet"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scTDA",
+        "PyPI": "scTDA"
+      },
+      {
+        "Tool": "scTenifoldNet",
+        "CRAN": "scTenifoldNet"
+      },
+      {
+        "Tool": "scTriangulate",
+        "PyPI": "sctriangulate"
+      },
+      {
+        "Tool": "scuttle",
+        "Bioc": "scuttle"
+      },
+      {
+        "Tool": "scvi-tools",
+        "PyPI": "scvi-tools"
+      },
+      {
+        "Tool": "SEQUIN"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "Sharq"
+      },
+      {
+        "Tool": "SIMBA"
+      },
+      {
+        "Tool": "SINCERA"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "SinQC"
+      },
+      {
+        "Tool": "solo",
+        "PyPI": "solo-sc"
+      },
+      {
+        "Tool": "souporcell"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "supercells",
+        "PyPI": "supercells"
+      },
+      {
+        "Tool": "Tobiko"
+      },
+      {
+        "Tool": "uSORT",
+        "Bioc": "uSORT"
+      },
+      {
+        "Tool": "vaeda",
+        "PyPI": "vaeda"
+      },
+      {
+        "Tool": "VIPCCA",
+        "PyPI": "vipcca"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "WAT3R"
+      },
+      {
+        "Tool": "XenoCell"
+      }
+    ]
+  },
+  {
+    "Category": "Quantification",
+    "Description": "Quantification of expression from reads",
+    "Tools": [
+      {
+        "Tool": "aggregateBioVar",
+        "Bioc": "aggregateBioVar"
+      },
+      {
+        "Tool": "alevin-fry"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "BarCounter"
+      },
+      {
+        "Tool": "baredSC",
+        "PyPI": "baredSC"
+      },
+      {
+        "Tool": "BCseq"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "BraCeR"
+      },
+      {
+        "Tool": "BRIE",
+        "PyPI": "brie"
+      },
+      {
+        "Tool": "bustools"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellTagR"
+      },
+      {
+        "Tool": "CITEseqCount",
+        "PyPI": "CITE-seq-Count"
+      },
+      {
+        "Tool": "dropEst"
+      },
+      {
+        "Tool": "dropSeqPipe",
+        "PyPI": "dropSeqPipe"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "Eoulsan"
+      },
+      {
+        "Tool": "eQTLsingle"
+      },
+      {
+        "Tool": "ESAT"
+      },
+      {
+        "Tool": "Falco"
+      },
+      {
+        "Tool": "FastCount"
+      },
+      {
+        "Tool": "fba",
+        "PyPI": "fba"
+      },
+      {
+        "Tool": "FEM"
+      },
+      {
+        "Tool": "FLAMES",
+        "Bioc": "FLAMES"
+      },
+      {
+        "Tool": "gExcite"
+      },
+      {
+        "Tool": "Ikura"
+      },
+      {
+        "Tool": "ImSpectR"
+      },
+      {
+        "Tool": "kallisto"
+      },
+      {
+        "Tool": "kmermaid"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "Monod",
+        "PyPI": "monod"
+      },
+      {
+        "Tool": "MTD"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "polyApipe"
+      },
+      {
+        "Tool": "RainDrop"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "Rsubread",
+        "Bioc": "Rsubread"
+      },
+      {
+        "Tool": "salmon"
+      },
+      {
+        "Tool": "SASCRiP",
+        "PyPI": "SASCRiP"
+      },
+      {
+        "Tool": "SCAFE"
+      },
+      {
+        "Tool": "scAmpi"
+      },
+      {
+        "Tool": "scAPAtrap"
+      },
+      {
+        "Tool": "SCAPE"
+      },
+      {
+        "Tool": "SCAPTURE"
+      },
+      {
+        "Tool": "scAR"
+      },
+      {
+        "Tool": "scasa"
+      },
+      {
+        "Tool": "scisorseqr"
+      },
+      {
+        "Tool": "scMAGeCK",
+        "Bioc": "scMAGeCK"
+      },
+      {
+        "Tool": "scMAPA"
+      },
+      {
+        "Tool": "scPipe",
+        "Bioc": "scPipe"
+      },
+      {
+        "Tool": "scQuint"
+      },
+      {
+        "Tool": "scReadSim",
+        "PyPI": "scReadSim"
+      },
+      {
+        "Tool": "scruff",
+        "Bioc": "scruff"
+      },
+      {
+        "Tool": "scSimClassify"
+      },
+      {
+        "Tool": "scsnv"
+      },
+      {
+        "Tool": "scTE"
+      },
+      {
+        "Tool": "scumi"
+      },
+      {
+        "Tool": "SCUREL"
+      },
+      {
+        "Tool": "scUTRquant"
+      },
+      {
+        "Tool": "Sharq"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "sircel"
+      },
+      {
+        "Tool": "SoupX",
+        "CRAN": "SoupX"
+      },
+      {
+        "Tool": "STAR"
+      },
+      {
+        "Tool": "TAR-scRNA-seq"
+      },
+      {
+        "Tool": "TASC"
+      },
+      {
+        "Tool": "Tobiko"
+      },
+      {
+        "Tool": "TraCeR"
+      },
+      {
+        "Tool": "TRAPeS",
+        "PyPI": "trapes"
+      },
+      {
+        "Tool": "TRUmiCount"
+      },
+      {
+        "Tool": "UMI_analysis"
+      },
+      {
+        "Tool": "UMI-tools",
+        "PyPI": "umi-tools"
+      },
+      {
+        "Tool": "umis",
+        "PyPI": "umis"
+      },
+      {
+        "Tool": "UniverSC"
+      },
+      {
+        "Tool": "VDJPuzzle"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "WAT3R"
+      },
+      {
+        "Tool": "XenoCell"
+      },
+      {
+        "Tool": "zUMIs"
+      }
+    ]
+  },
+  {
+    "Category": "RareCells",
+    "Description": "Identification of rare cell populations",
+    "Tools": [
+      {
+        "Tool": "CellSIUS"
+      },
+      {
+        "Tool": "CONCLUS",
+        "Bioc": "conclus"
+      },
+      {
+        "Tool": "FiRE",
+        "CRAN": "FiRE"
+      },
+      {
+        "Tool": "GapClust"
+      },
+      {
+        "Tool": "GiniClust"
+      },
+      {
+        "Tool": "GiniClust3",
+        "PyPI": "giniclust3"
+      },
+      {
+        "Tool": "ILoReg",
+        "Bioc": "ILoReg"
+      },
+      {
+        "Tool": "MicroCellClust"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "SCA",
+        "PyPI": "shannonca"
+      },
+      {
+        "Tool": "scAlign",
+        "Bioc": "scAlign"
+      },
+      {
+        "Tool": "Scedar",
+        "PyPI": "scedar"
+      },
+      {
+        "Tool": "scProximitE",
+        "PyPI": "scproximite"
+      },
+      {
+        "Tool": "ShareNet"
+      },
+      {
+        "Tool": "Spectre"
+      },
+      {
+        "Tool": "TooManyCells",
+        "CRAN": "TooManyCellsR"
+      }
+    ]
+  },
+  {
+    "Category": "Simulation",
+    "Description": "Generation of synthetic scRNA-seq datasets",
+    "Tools": [
+      {
+        "Tool": "ACTIVA"
+      },
+      {
+        "Tool": "Augur"
+      },
+      {
+        "Tool": "BASiCS",
+        "Bioc": "BASiCS"
+      },
+      {
+        "Tool": "bayNorm",
+        "Bioc": "bayNorm"
+      },
+      {
+        "Tool": "BEARscc",
+        "Bioc": "BEARscc"
+      },
+      {
+        "Tool": "Bisque",
+        "CRAN": "BisqueRNA"
+      },
+      {
+        "Tool": "BZINB",
+        "CRAN": "bzinb"
+      },
+      {
+        "Tool": "CancerInSilico",
+        "Bioc": "CancerInSilico"
+      },
+      {
+        "Tool": "cardelino"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "cellassign"
+      },
+      {
+        "Tool": "CellOracle"
+      },
+      {
+        "Tool": "CellRegMap",
+        "PyPI": "cellregmap"
+      },
+      {
+        "Tool": "CIDR"
+      },
+      {
+        "Tool": "DCATS"
+      },
+      {
+        "Tool": "DCLEAR",
+        "CRAN": "DCLEAR"
+      },
+      {
+        "Tool": "DeepSEM"
+      },
+      {
+        "Tool": "DENDRO"
+      },
+      {
+        "Tool": "DropletUtils",
+        "Bioc": "DropletUtils"
+      },
+      {
+        "Tool": "dropsim"
+      },
+      {
+        "Tool": "Dynamo"
+      },
+      {
+        "Tool": "dyngen",
+        "CRAN": "dyngen"
+      },
+      {
+        "Tool": "dynverse"
+      },
+      {
+        "Tool": "ESCO"
+      },
+      {
+        "Tool": "HARISSA",
+        "PyPI": "harissa"
+      },
+      {
+        "Tool": "hierarchicell"
+      },
+      {
+        "Tool": "IBMR"
+      },
+      {
+        "Tool": "iQcell"
+      },
+      {
+        "Tool": "JGNsc"
+      },
+      {
+        "Tool": "LineagePulse",
+        "Bioc": "LineagePulse"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "M3Drop",
+        "Bioc": "M3Drop"
+      },
+      {
+        "Tool": "Matilda"
+      },
+      {
+        "Tool": "MFA",
+        "Bioc": "mfa"
+      },
+      {
+        "Tool": "minnow"
+      },
+      {
+        "Tool": "mmutil"
+      },
+      {
+        "Tool": "MOSCATO"
+      },
+      {
+        "Tool": "mrtree"
+      },
+      {
+        "Tool": "muscat",
+        "Bioc": "muscat"
+      },
+      {
+        "Tool": "MuSiC"
+      },
+      {
+        "Tool": "NaiveDE",
+        "PyPI": "NaiveDE"
+      },
+      {
+        "Tool": "PhenoPath",
+        "Bioc": "phenopath"
+      },
+      {
+        "Tool": "POWSC",
+        "Bioc": "POWSC"
+      },
+      {
+        "Tool": "powsimR"
+      },
+      {
+        "Tool": "PROSSTT"
+      },
+      {
+        "Tool": "RVAgene"
+      },
+      {
+        "Tool": "SampleQC"
+      },
+      {
+        "Tool": "scACE"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "SCATrEx",
+        "PyPI": "scatrex"
+      },
+      {
+        "Tool": "sccomp",
+        "Bioc": "sccomp"
+      },
+      {
+        "Tool": "scDBM"
+      },
+      {
+        "Tool": "scDD",
+        "Bioc": "scDD"
+      },
+      {
+        "Tool": "scDesign"
+      },
+      {
+        "Tool": "scDesign2"
+      },
+      {
+        "Tool": "scGAN"
+      },
+      {
+        "Tool": "SCHiRM"
+      },
+      {
+        "Tool": "scModels",
+        "CRAN": "scModels"
+      },
+      {
+        "Tool": "scNCA"
+      },
+      {
+        "Tool": "scPipe",
+        "Bioc": "scPipe"
+      },
+      {
+        "Tool": "scPOST"
+      },
+      {
+        "Tool": "scPower"
+      },
+      {
+        "Tool": "scReadSim",
+        "PyPI": "scReadSim"
+      },
+      {
+        "Tool": "SCRIP",
+        "CRAN": "SCRIP"
+      },
+      {
+        "Tool": "scRMD"
+      },
+      {
+        "Tool": "scRutiNy",
+        "PyPI": "RNAscrutiny"
+      },
+      {
+        "Tool": "scsim"
+      },
+      {
+        "Tool": "scTenifoldKnk",
+        "CRAN": "scTenifoldKnk"
+      },
+      {
+        "Tool": "seqgendiff",
+        "CRAN": "seqgendiff"
+      },
+      {
+        "Tool": "SERGIO",
+        "PyPI": "sergio-scSim"
+      },
+      {
+        "Tool": "SPARSim"
+      },
+      {
+        "Tool": "splattdr"
+      },
+      {
+        "Tool": "Splatter",
+        "Bioc": "splatter"
+      },
+      {
+        "Tool": "SPsimSeq",
+        "Bioc": "SPsimSeq"
+      },
+      {
+        "Tool": "SymSim"
+      },
+      {
+        "Tool": "TedSim"
+      },
+      {
+        "Tool": "trendsceek"
+      },
+      {
+        "Tool": "TWO-SIGMA",
+        "CRAN": "twosigma"
+      },
+      {
+        "Tool": "VeloSim"
+      },
+      {
+        "Tool": "ZINB-WaVE",
+        "Bioc": "zinbwave"
+      },
+      {
+        "Tool": "zingeR"
+      }
+    ]
+  },
+  {
+    "Category": "StemCells",
+    "Description": "Identification of cells with stem-like characteristics",
+    "Tools": [
+      {
+        "Tool": "FateID",
+        "CRAN": "FateID"
+      },
+      {
+        "Tool": "hscScore"
+      },
+      {
+        "Tool": "LandSCENT"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "scCancer"
+      },
+      {
+        "Tool": "SCENT"
+      },
+      {
+        "Tool": "Spectre"
+      }
+    ]
+  },
+  {
+    "Category": "Transformation",
+    "Description": "Transformation between expression levels and some other measure",
+    "Tools": [
+      {
+        "Tool": "bonvoyage",
+        "PyPI": "bonvoyage"
+      },
+      {
+        "Tool": "dsb",
+        "CRAN": "dsb"
+      },
+      {
+        "Tool": "FeatureCorr"
+      },
+      {
+        "Tool": "GeneSwitches"
+      },
+      {
+        "Tool": "LTMGSCA"
+      },
+      {
+        "Tool": "scPSD"
+      },
+      {
+        "Tool": "sctransform",
+        "CRAN": "sctransform"
+      },
+      {
+        "Tool": "transformGamPoi",
+        "Bioc": "transformGamPoi"
+      }
+    ]
+  },
+  {
+    "Category": "UMIs",
+    "Description": "Processing of Unique Molecular Identifiers",
+    "Tools": [
+      {
+        "Tool": "alevin-fry"
+      },
+      {
+        "Tool": "bcbio",
+        "PyPI": "bcbio"
+      },
+      {
+        "Tool": "bcbioSingleCell"
+      },
+      {
+        "Tool": "bustools"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellTagR"
+      },
+      {
+        "Tool": "CITEseqCount",
+        "PyPI": "CITE-seq-Count"
+      },
+      {
+        "Tool": "ddSeeker"
+      },
+      {
+        "Tool": "demuxlet"
+      },
+      {
+        "Tool": "dropEst"
+      },
+      {
+        "Tool": "DropletUtils",
+        "Bioc": "DropletUtils"
+      },
+      {
+        "Tool": "dropSeqPipe",
+        "PyPI": "dropSeqPipe"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "FastCount"
+      },
+      {
+        "Tool": "FLAMES",
+        "Bioc": "FLAMES"
+      },
+      {
+        "Tool": "gExcite"
+      },
+      {
+        "Tool": "Ikura"
+      },
+      {
+        "Tool": "IronThrone-GoT"
+      },
+      {
+        "Tool": "kallisto"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "minnow"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "PoissonUMIs"
+      },
+      {
+        "Tool": "polyApipe"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "salmon"
+      },
+      {
+        "Tool": "scGESTALT"
+      },
+      {
+        "Tool": "scPipe",
+        "Bioc": "scPipe"
+      },
+      {
+        "Tool": "scruff",
+        "Bioc": "scruff"
+      },
+      {
+        "Tool": "SCSit",
+        "PyPI": "scsit"
+      },
+      {
+        "Tool": "scumi"
+      },
+      {
+        "Tool": "Sharq"
+      },
+      {
+        "Tool": "SiCeLoRe"
+      },
+      {
+        "Tool": "Sinto",
+        "PyPI": "sinto"
+      },
+      {
+        "Tool": "sircel"
+      },
+      {
+        "Tool": "STAR"
+      },
+      {
+        "Tool": "Tobiko"
+      },
+      {
+        "Tool": "TRUmiCount"
+      },
+      {
+        "Tool": "UMI_analysis"
+      },
+      {
+        "Tool": "UMI-tools",
+        "PyPI": "umi-tools"
+      },
+      {
+        "Tool": "UMICollapse"
+      },
+      {
+        "Tool": "umis",
+        "PyPI": "umis"
+      },
+      {
+        "Tool": "UniverSC"
+      },
+      {
+        "Tool": "zUMIs"
+      }
+    ]
+  },
+  {
+    "Category": "VariableGenes",
+    "Description": "Identifcation or use of highly (or lowly) variable genes",
+    "Tools": [
+      {
+        "Tool": "activeSVC",
+        "PyPI": "activeSVC"
+      },
+      {
+        "Tool": "Augur"
+      },
+      {
+        "Tool": "AutoImpute"
+      },
+      {
+        "Tool": "BASiCS",
+        "Bioc": "BASiCS"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "BITFAM"
+      },
+      {
+        "Tool": "clustifyr",
+        "Bioc": "clustifyr"
+      },
+      {
+        "Tool": "CoSpar",
+        "PyPI": "cospar"
+      },
+      {
+        "Tool": "countClust",
+        "Bioc": "CountClust"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "DESCEND"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "dropClust"
+      },
+      {
+        "Tool": "DrSeq2"
+      },
+      {
+        "Tool": "DTWScore"
+      },
+      {
+        "Tool": "DUBStepR",
+        "CRAN": "DUBStepR"
+      },
+      {
+        "Tool": "EDGE"
+      },
+      {
+        "Tool": "FEAST",
+        "Bioc": "FEAST"
+      },
+      {
+        "Tool": "FiRE",
+        "CRAN": "FiRE"
+      },
+      {
+        "Tool": "FIRM"
+      },
+      {
+        "Tool": "FSCAM"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "GPcounts"
+      },
+      {
+        "Tool": "GSFA"
+      },
+      {
+        "Tool": "IEntropy"
+      },
+      {
+        "Tool": "infohet"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "jackstraw"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "LAmbDA"
+      },
+      {
+        "Tool": "LIGER",
+        "CRAN": "rliger"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "Matilda"
+      },
+      {
+        "Tool": "MCXpress"
+      },
+      {
+        "Tool": "MetaCell"
+      },
+      {
+        "Tool": "MetaNeighbor",
+        "Bioc": "MetaNeighbor"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "PALMO",
+        "CRAN": "PALMO"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "phiclust"
+      },
+      {
+        "Tool": "pseudoga"
+      },
+      {
+        "Tool": "pyNVR"
+      },
+      {
+        "Tool": "redPATH"
+      },
+      {
+        "Tool": "RgCop"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "sceb",
+        "PyPI": "sceb"
+      },
+      {
+        "Tool": "scEC"
+      },
+      {
+        "Tool": "SCEnt",
+        "CRAN": "SCEnt"
+      },
+      {
+        "Tool": "scGNN"
+      },
+      {
+        "Tool": "scGPS",
+        "Bioc": "scGPS"
+      },
+      {
+        "Tool": "SciBet"
+      },
+      {
+        "Tool": "scITD",
+        "CRAN": "scITD"
+      },
+      {
+        "Tool": "scLVM",
+        "PyPI": "scLVM"
+      },
+      {
+        "Tool": "SCMarker"
+      },
+      {
+        "Tool": "SCMER",
+        "PyPI": "scmer"
+      },
+      {
+        "Tool": "scMerge",
+        "Bioc": "scMerge"
+      },
+      {
+        "Tool": "scPanoView"
+      },
+      {
+        "Tool": "scPNMF"
+      },
+      {
+        "Tool": "scPopCorn",
+        "PyPI": "scpopcorn"
+      },
+      {
+        "Tool": "scran",
+        "Bioc": "scran"
+      },
+      {
+        "Tool": "scSensitiveGeneDefine"
+      },
+      {
+        "Tool": "scSpace"
+      },
+      {
+        "Tool": "scUnifrac"
+      },
+      {
+        "Tool": "scVEGs"
+      },
+      {
+        "Tool": "SelfE"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SeuratV3Wizard"
+      },
+      {
+        "Tool": "SeuratWizard"
+      },
+      {
+        "Tool": "SIEVE"
+      },
+      {
+        "Tool": "SIMBA"
+      },
+      {
+        "Tool": "SINC"
+      },
+      {
+        "Tool": "slalom",
+        "Bioc": "slalom"
+      },
+      {
+        "Tool": "SOUP"
+      },
+      {
+        "Tool": "sscClust"
+      },
+      {
+        "Tool": "TREG",
+        "Bioc": "TREG"
+      },
+      {
+        "Tool": "Triku",
+        "PyPI": "triku"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "uSORT",
+        "Bioc": "uSORT"
+      }
+    ]
+  },
+  {
+    "Category": "Variants",
+    "Description": "Detection or use of nucleotide variants",
+    "Tools": [
+      {
+        "Tool": "badger"
+      },
+      {
+        "Tool": "CACTUS"
+      },
+      {
+        "Tool": "CAISC"
+      },
+      {
+        "Tool": "cardelino"
+      },
+      {
+        "Tool": "CaSpER"
+      },
+      {
+        "Tool": "cb_sniffer"
+      },
+      {
+        "Tool": "CellaRepertorium",
+        "Bioc": "CellaRepertorium"
+      },
+      {
+        "Tool": "CellRegMap",
+        "PyPI": "cellregmap"
+      },
+      {
+        "Tool": "cellSNP",
+        "PyPI": "cellSNP"
+      },
+      {
+        "Tool": "cellsnp-lite"
+      },
+      {
+        "Tool": "clonealign"
+      },
+      {
+        "Tool": "ClonoCluster"
+      },
+      {
+        "Tool": "CONGAS",
+        "PyPI": "congas"
+      },
+      {
+        "Tool": "CONICS"
+      },
+      {
+        "Tool": "CopyKAT"
+      },
+      {
+        "Tool": "Demuxafy"
+      },
+      {
+        "Tool": "Demuxalot",
+        "PyPI": "demuxalot"
+      },
+      {
+        "Tool": "demuxlet"
+      },
+      {
+        "Tool": "DENDRO"
+      },
+      {
+        "Tool": "EPIC"
+      },
+      {
+        "Tool": "eQTLsingle"
+      },
+      {
+        "Tool": "FLAMES",
+        "Bioc": "FLAMES"
+      },
+      {
+        "Tool": "genomicInstability",
+        "Bioc": "genomicInstability"
+      },
+      {
+        "Tool": "GSFA"
+      },
+      {
+        "Tool": "HoneyBADGER"
+      },
+      {
+        "Tool": "ikarus",
+        "PyPI": "ikarus"
+      },
+      {
+        "Tool": "inferCNV",
+        "Bioc": "infercnv"
+      },
+      {
+        "Tool": "inferCNVpy",
+        "PyPI": "infercnvpy"
+      },
+      {
+        "Tool": "IronThrone-GoT"
+      },
+      {
+        "Tool": "LINEAGE"
+      },
+      {
+        "Tool": "MEDALT"
+      },
+      {
+        "Tool": "MitoHEAR",
+        "CRAN": "MitoHEAR"
+      },
+      {
+        "Tool": "MQuad",
+        "PyPI": "mquad"
+      },
+      {
+        "Tool": "PhylEx"
+      },
+      {
+        "Tool": "phyloRNA"
+      },
+      {
+        "Tool": "powerEQTL"
+      },
+      {
+        "Tool": "Red_Panda"
+      },
+      {
+        "Tool": "scAllele"
+      },
+      {
+        "Tool": "scDRS"
+      },
+      {
+        "Tool": "SCEVAN"
+      },
+      {
+        "Tool": "scFusion"
+      },
+      {
+        "Tool": "SClineager"
+      },
+      {
+        "Tool": "scMAGeCK",
+        "Bioc": "scMAGeCK"
+      },
+      {
+        "Tool": "SCmut"
+      },
+      {
+        "Tool": "scploid"
+      },
+      {
+        "Tool": "SCReadCounts"
+      },
+      {
+        "Tool": "scsnv"
+      },
+      {
+        "Tool": "scSplit",
+        "PyPI": "scSplit"
+      },
+      {
+        "Tool": "SiCeLoRe"
+      },
+      {
+        "Tool": "souporcell"
+      },
+      {
+        "Tool": "SSrGE"
+      },
+      {
+        "Tool": "TBSP",
+        "PyPI": "tbsp"
+      },
+      {
+        "Tool": "VarTrix"
+      },
+      {
+        "Tool": "Vireo",
+        "PyPI": "vireoSNP"
+      }
+    ]
+  },
+  {
+    "Category": "Visualisation",
+    "Description": "Functions for visualising some aspect of scRNA-seq data or analysis",
+    "Tools": [
+      {
+        "Tool": "acorde"
+      },
+      {
+        "Tool": "ACTIONet"
+      },
+      {
+        "Tool": "adobo",
+        "PyPI": "adobo"
+      },
+      {
+        "Tool": "airpart",
+        "Bioc": "airpart"
+      },
+      {
+        "Tool": "alevinQC",
+        "Bioc": "alevinQC"
+      },
+      {
+        "Tool": "AltAnalyze",
+        "PyPI": "AltAnalyze"
+      },
+      {
+        "Tool": "APL",
+        "Bioc": "APL"
+      },
+      {
+        "Tool": "ASAP"
+      },
+      {
+        "Tool": "Asc-Seurat"
+      },
+      {
+        "Tool": "ascend"
+      },
+      {
+        "Tool": "ASURAT",
+        "Bioc": "ASURAT"
+      },
+      {
+        "Tool": "AUCell",
+        "Bioc": "AUCell"
+      },
+      {
+        "Tool": "Augur"
+      },
+      {
+        "Tool": "badger"
+      },
+      {
+        "Tool": "baredSC",
+        "PyPI": "baredSC"
+      },
+      {
+        "Tool": "BarMixer"
+      },
+      {
+        "Tool": "BatchBench"
+      },
+      {
+        "Tool": "bbknn",
+        "PyPI": "bbknn"
+      },
+      {
+        "Tool": "bcbioSingleCell"
+      },
+      {
+        "Tool": "BEANIE"
+      },
+      {
+        "Tool": "BENISSE"
+      },
+      {
+        "Tool": "BESCA",
+        "PyPI": "besca"
+      },
+      {
+        "Tool": "Beyondcell"
+      },
+      {
+        "Tool": "bigSCale"
+      },
+      {
+        "Tool": "bigSCale2"
+      },
+      {
+        "Tool": "bindSC"
+      },
+      {
+        "Tool": "BingleSeq"
+      },
+      {
+        "Tool": "BioTIP",
+        "Bioc": "BioTIP"
+      },
+      {
+        "Tool": "bollito"
+      },
+      {
+        "Tool": "BraCeR"
+      },
+      {
+        "Tool": "BranchedGP",
+        "PyPI": "BranchedGP"
+      },
+      {
+        "Tool": "bseqsc"
+      },
+      {
+        "Tool": "BTR"
+      },
+      {
+        "Tool": "BUSseq",
+        "Bioc": "BUSseq"
+      },
+      {
+        "Tool": "CAISC"
+      },
+      {
+        "Tool": "CALISTA"
+      },
+      {
+        "Tool": "CancerInSilico",
+        "Bioc": "CancerInSilico"
+      },
+      {
+        "Tool": "cardelino"
+      },
+      {
+        "Tool": "CaSpER"
+      },
+      {
+        "Tool": "ccdf",
+        "CRAN": "ccdf"
+      },
+      {
+        "Tool": "ccfindR",
+        "Bioc": "ccfindR"
+      },
+      {
+        "Tool": "ccNet",
+        "PyPI": "ccnet"
+      },
+      {
+        "Tool": "CCNMF"
+      },
+      {
+        "Tool": "CDI"
+      },
+      {
+        "Tool": "celaref",
+        "Bioc": "celaref"
+      },
+      {
+        "Tool": "celda",
+        "Bioc": "celda"
+      },
+      {
+        "Tool": "Cell-BLAST",
+        "PyPI": "Cell-BLAST"
+      },
+      {
+        "Tool": "cell2cell",
+        "PyPI": "cell2cell"
+      },
+      {
+        "Tool": "cellAlign"
+      },
+      {
+        "Tool": "CellaRepertorium",
+        "Bioc": "CellaRepertorium"
+      },
+      {
+        "Tool": "CellBench",
+        "Bioc": "CellBench"
+      },
+      {
+        "Tool": "CellBender"
+      },
+      {
+        "Tool": "cellBrowser",
+        "PyPI": "cellbrowser"
+      },
+      {
+        "Tool": "CellCall"
+      },
+      {
+        "Tool": "CellChat"
+      },
+      {
+        "Tool": "CellDrift",
+        "PyPI": "CellDrift"
+      },
+      {
+        "Tool": "CellexalVR"
+      },
+      {
+        "Tool": "CellID",
+        "Bioc": "CelliD"
+      },
+      {
+        "Tool": "CellLayers",
+        "PyPI": "CellLayers"
+      },
+      {
+        "Tool": "CellMixS",
+        "Bioc": "CellMixS"
+      },
+      {
+        "Tool": "CellPath",
+        "PyPI": "cellpath"
+      },
+      {
+        "Tool": "CellPhoneDB",
+        "PyPI": "CellPhoneDB"
+      },
+      {
+        "Tool": "cellpypes",
+        "CRAN": "cellpypes"
+      },
+      {
+        "Tool": "CellRanger"
+      },
+      {
+        "Tool": "CellRank",
+        "PyPI": "cellrank"
+      },
+      {
+        "Tool": "CellRouter"
+      },
+      {
+        "Tool": "CellSIUS"
+      },
+      {
+        "Tool": "CellTagR"
+      },
+      {
+        "Tool": "celltalker"
+      },
+      {
+        "Tool": "CellTrails",
+        "Bioc": "CellTrails"
+      },
+      {
+        "Tool": "CellTree",
+        "Bioc": "cellTree"
+      },
+      {
+        "Tool": "CellTrek"
+      },
+      {
+        "Tool": "CellView"
+      },
+      {
+        "Tool": "cellxgene",
+        "PyPI": "cellxgene"
+      },
+      {
+        "Tool": "cellxgene_VIP"
+      },
+      {
+        "Tool": "Cepo",
+        "Bioc": "Cepo"
+      },
+      {
+        "Tool": "Cerebro"
+      },
+      {
+        "Tool": "CeTF",
+        "Bioc": "CeTF"
+      },
+      {
+        "Tool": "cFIT"
+      },
+      {
+        "Tool": "CHETAH",
+        "Bioc": "CHETAH"
+      },
+      {
+        "Tool": "CIPR"
+      },
+      {
+        "Tool": "Cirrocumulus",
+        "PyPI": "cirrocumulus"
+      },
+      {
+        "Tool": "CiteFuse",
+        "Bioc": "CiteFuse"
+      },
+      {
+        "Tool": "clonealign"
+      },
+      {
+        "Tool": "ClonoCluster"
+      },
+      {
+        "Tool": "ClustAssess",
+        "CRAN": "ClustAssess"
+      },
+      {
+        "Tool": "cluster_diffex"
+      },
+      {
+        "Tool": "clusterExperiment",
+        "Bioc": "clusterExperiment"
+      },
+      {
+        "Tool": "ClusterFoldSimilarity"
+      },
+      {
+        "Tool": "Clustergrammer2",
+        "PyPI": "clustergrammer2"
+      },
+      {
+        "Tool": "ClusterMap"
+      },
+      {
+        "Tool": "clustifyr",
+        "Bioc": "clustifyr"
+      },
+      {
+        "Tool": "cna",
+        "PyPI": "cna"
+      },
+      {
+        "Tool": "Cobolt"
+      },
+      {
+        "Tool": "cocoa"
+      },
+      {
+        "Tool": "CoGAPs",
+        "Bioc": "CoGAPS"
+      },
+      {
+        "Tool": "cola",
+        "Bioc": "cola"
+      },
+      {
+        "Tool": "COMET",
+        "PyPI": "COMETSC"
+      },
+      {
+        "Tool": "Compartmap",
+        "Bioc": "compartmap"
+      },
+      {
+        "Tool": "compass"
+      },
+      {
+        "Tool": "CONCLUS",
+        "Bioc": "conclus"
+      },
+      {
+        "Tool": "CoNGA"
+      },
+      {
+        "Tool": "CONICS"
+      },
+      {
+        "Tool": "Connectome"
+      },
+      {
+        "Tool": "Conos",
+        "CRAN": "conos"
+      },
+      {
+        "Tool": "constclust",
+        "PyPI": "constclust"
+      },
+      {
+        "Tool": "CoSpar",
+        "PyPI": "cospar"
+      },
+      {
+        "Tool": "countClust",
+        "Bioc": "CountClust"
+      },
+      {
+        "Tool": "countland"
+      },
+      {
+        "Tool": "CrossTalkeR"
+      },
+      {
+        "Tool": "CSHMM-TF"
+      },
+      {
+        "Tool": "CStreet",
+        "PyPI": "cstreet"
+      },
+      {
+        "Tool": "ctgGEM",
+        "Bioc": "ctgGEM"
+      },
+      {
+        "Tool": "Cytopath",
+        "PyPI": "cytopath"
+      },
+      {
+        "Tool": "CytoSPACE"
+      },
+      {
+        "Tool": "D-EE"
+      },
+      {
+        "Tool": "DALI"
+      },
+      {
+        "Tool": "dandelion",
+        "PyPI": "sc-dandelion"
+      },
+      {
+        "Tool": "decoupler",
+        "PyPI": "decoupler"
+      },
+      {
+        "Tool": "DeLorean",
+        "CRAN": "DeLorean"
+      },
+      {
+        "Tool": "DEN"
+      },
+      {
+        "Tool": "DENDRO"
+      },
+      {
+        "Tool": "densityCut"
+      },
+      {
+        "Tool": "DepecheR",
+        "Bioc": "DepecheR"
+      },
+      {
+        "Tool": "DESC",
+        "PyPI": "desc"
+      },
+      {
+        "Tool": "DESCEND"
+      },
+      {
+        "Tool": "destiny",
+        "Bioc": "destiny"
+      },
+      {
+        "Tool": "DevKidCC"
+      },
+      {
+        "Tool": "DEWAKSS",
+        "PyPI": "DEWAKSS"
+      },
+      {
+        "Tool": "Dhaka"
+      },
+      {
+        "Tool": "DIEM"
+      },
+      {
+        "Tool": "DigitalCellSorter",
+        "PyPI": "DigitalCellSorter"
+      },
+      {
+        "Tool": "DIMMSC"
+      },
+      {
+        "Tool": "DIRECT-NET"
+      },
+      {
+        "Tool": "DIscBIO",
+        "CRAN": "DIscBIO"
+      },
+      {
+        "Tool": "DiSiR"
+      },
+      {
+        "Tool": "DistMap"
+      },
+      {
+        "Tool": "DittoSeq",
+        "Bioc": "dittoSeq"
+      },
+      {
+        "Tool": "dmatch"
+      },
+      {
+        "Tool": "Domino"
+      },
+      {
+        "Tool": "DoubletDetection",
+        "PyPI": "doubletdetection"
+      },
+      {
+        "Tool": "DPre"
+      },
+      {
+        "Tool": "DPT"
+      },
+      {
+        "Tool": "DrivAER"
+      },
+      {
+        "Tool": "dropbead"
+      },
+      {
+        "Tool": "dropClust"
+      },
+      {
+        "Tool": "dropEst"
+      },
+      {
+        "Tool": "dropSeqPipe",
+        "PyPI": "dropSeqPipe"
+      },
+      {
+        "Tool": "dropsim"
+      },
+      {
+        "Tool": "DSAVE-M"
+      },
+      {
+        "Tool": "DSAVE-R"
+      },
+      {
+        "Tool": "DTFLOW"
+      },
+      {
+        "Tool": "DTUrtle"
+      },
+      {
+        "Tool": "Dune",
+        "Bioc": "Dune"
+      },
+      {
+        "Tool": "Dynamo"
+      },
+      {
+        "Tool": "dyngen",
+        "CRAN": "dyngen"
+      },
+      {
+        "Tool": "dynverse"
+      },
+      {
+        "Tool": "ECLAIR",
+        "PyPI": "ECLAIR"
+      },
+      {
+        "Tool": "EMBEDR"
+      },
+      {
+        "Tool": "EPIC"
+      },
+      {
+        "Tool": "escape",
+        "Bioc": "escape"
+      },
+      {
+        "Tool": "eSPRESSO"
+      },
+      {
+        "Tool": "eSVD"
+      },
+      {
+        "Tool": "FastProject",
+        "PyPI": "FastProject"
+      },
+      {
+        "Tool": "FateCompass"
+      },
+      {
+        "Tool": "FateID",
+        "CRAN": "FateID"
+      },
+      {
+        "Tool": "fcoex",
+        "Bioc": "fcoex"
+      },
+      {
+        "Tool": "FeatureCorr"
+      },
+      {
+        "Tool": "FiRE",
+        "CRAN": "FiRE"
+      },
+      {
+        "Tool": "fishpond",
+        "Bioc": "fishpond"
+      },
+      {
+        "Tool": "FLOWMAPR"
+      },
+      {
+        "Tool": "FORKS"
+      },
+      {
+        "Tool": "FRmatch"
+      },
+      {
+        "Tool": "FUNKI"
+      },
+      {
+        "Tool": "fusca"
+      },
+      {
+        "Tool": "Garnett"
+      },
+      {
+        "Tool": "geneBasisR"
+      },
+      {
+        "Tool": "GenePattern",
+        "PyPI": "genepattern-python"
+      },
+      {
+        "Tool": "genesorteR"
+      },
+      {
+        "Tool": "GeneSwitches"
+      },
+      {
+        "Tool": "genomicInstability",
+        "Bioc": "genomicInstability"
+      },
+      {
+        "Tool": "gficf"
+      },
+      {
+        "Tool": "GiniClust3",
+        "PyPI": "giniclust3"
+      },
+      {
+        "Tool": "GLUER"
+      },
+      {
+        "Tool": "GPcounts"
+      },
+      {
+        "Tool": "GPfates"
+      },
+      {
+        "Tool": "Granatum"
+      },
+      {
+        "Tool": "graph-sc",
+        "PyPI": "graph-sc"
+      },
+      {
+        "Tool": "GraphEmbed",
+        "PyPI": "graphembed"
+      },
+      {
+        "Tool": "HieRFIT"
+      },
+      {
+        "Tool": "HIPPO",
+        "Bioc": "HIPPO"
+      },
+      {
+        "Tool": "HocusPocus"
+      },
+      {
+        "Tool": "HoneyBADGER"
+      },
+      {
+        "Tool": "HopLand"
+      },
+      {
+        "Tool": "Hotspot",
+        "PyPI": "hotspotsc"
+      },
+      {
+        "Tool": "hypercluster",
+        "PyPI": "hypercluster"
+      },
+      {
+        "Tool": "i2dash",
+        "CRAN": "i2dash"
+      },
+      {
+        "Tool": "ICAnet"
+      },
+      {
+        "Tool": "ICELLNET"
+      },
+      {
+        "Tool": "iCellR",
+        "CRAN": "iCellR"
+      },
+      {
+        "Tool": "IKAP"
+      },
+      {
+        "Tool": "immunarch",
+        "CRAN": "immunarch"
+      },
+      {
+        "Tool": "ImSpectR"
+      },
+      {
+        "Tool": "indeXplorer"
+      },
+      {
+        "Tool": "inferCNV",
+        "Bioc": "infercnv"
+      },
+      {
+        "Tool": "InterCellar",
+        "Bioc": "InterCellar"
+      },
+      {
+        "Tool": "IReNA"
+      },
+      {
+        "Tool": "IRIS-FGM",
+        "Bioc": "IRISFGM"
+      },
+      {
+        "Tool": "iS-CellR"
+      },
+      {
+        "Tool": "iscandar"
+      },
+      {
+        "Tool": "iSEE",
+        "Bioc": "iSEE"
+      },
+      {
+        "Tool": "iTALK"
+      },
+      {
+        "Tool": "JGNsc"
+      },
+      {
+        "Tool": "JSNMF_py",
+        "PyPI": "JSNMF-py"
+      },
+      {
+        "Tool": "K2Taxonomer"
+      },
+      {
+        "Tool": "kana"
+      },
+      {
+        "Tool": "Lamian"
+      },
+      {
+        "Tool": "LandSCENT"
+      },
+      {
+        "Tool": "LIGER",
+        "CRAN": "rliger"
+      },
+      {
+        "Tool": "LineagePulse",
+        "Bioc": "LineagePulse"
+      },
+      {
+        "Tool": "Linnorm",
+        "Bioc": "Linnorm"
+      },
+      {
+        "Tool": "LinQView"
+      },
+      {
+        "Tool": "LRLoop"
+      },
+      {
+        "Tool": "LTMGSCA"
+      },
+      {
+        "Tool": "M3Drop",
+        "Bioc": "M3Drop"
+      },
+      {
+        "Tool": "MAESTRO"
+      },
+      {
+        "Tool": "MAGIC",
+        "CRAN": "Rmagic",
+        "PyPI": "magic-impute"
+      },
+      {
+        "Tool": "MarkovHC"
+      },
+      {
+        "Tool": "MATCHER",
+        "PyPI": "pymatcher"
+      },
+      {
+        "Tool": "matchSCore2"
+      },
+      {
+        "Tool": "Matilda"
+      },
+      {
+        "Tool": "MATTE",
+        "PyPI": "MATTE"
+      },
+      {
+        "Tool": "MEBOCOST"
+      },
+      {
+        "Tool": "MERLoT"
+      },
+      {
+        "Tool": "MetaCell"
+      },
+      {
+        "Tool": "MetaNeighbor",
+        "Bioc": "MetaNeighbor"
+      },
+      {
+        "Tool": "MFA",
+        "Bioc": "mfa"
+      },
+      {
+        "Tool": "MICTI",
+        "PyPI": "MICTI"
+      },
+      {
+        "Tool": "Millefy"
+      },
+      {
+        "Tool": "miloR",
+        "Bioc": "miloR"
+      },
+      {
+        "Tool": "miQC",
+        "Bioc": "miQC"
+      },
+      {
+        "Tool": "MIRA",
+        "PyPI": "mira-multiome"
+      },
+      {
+        "Tool": "mitch",
+        "Bioc": "mitch"
+      },
+      {
+        "Tool": "MitoHEAR",
+        "CRAN": "MitoHEAR"
+      },
+      {
+        "Tool": "MLG"
+      },
+      {
+        "Tool": "Moana",
+        "PyPI": "moana"
+      },
+      {
+        "Tool": "MOFA",
+        "PyPI": "mofapy"
+      },
+      {
+        "Tool": "MOFA2",
+        "Bioc": "MOFA2",
+        "PyPI": "mofapy2"
+      },
+      {
+        "Tool": "Monocle",
+        "Bioc": "monocle"
+      },
+      {
+        "Tool": "Monod",
+        "PyPI": "monod"
+      },
+      {
+        "Tool": "MQuad",
+        "PyPI": "mquad"
+      },
+      {
+        "Tool": "mrtree"
+      },
+      {
+        "Tool": "MTD"
+      },
+      {
+        "Tool": "MUDAN"
+      },
+      {
+        "Tool": "MultiK"
+      },
+      {
+        "Tool": "Multiscale_PHATE",
+        "PyPI": "multiscale-phate"
+      },
+      {
+        "Tool": "MultiVelo",
+        "PyPI": "multivelo"
+      },
+      {
+        "Tool": "MURP"
+      },
+      {
+        "Tool": "muscat",
+        "Bioc": "muscat"
+      },
+      {
+        "Tool": "MuSiC"
+      },
+      {
+        "Tool": "MUSIC"
+      },
+      {
+        "Tool": "NATMI"
+      },
+      {
+        "Tool": "Nebulosa",
+        "Bioc": "Nebulosa"
+      },
+      {
+        "Tool": "Neighbor-seq"
+      },
+      {
+        "Tool": "netSmooth",
+        "Bioc": "netSmooth"
+      },
+      {
+        "Tool": "nichenetr"
+      },
+      {
+        "Tool": "nimfa",
+        "PyPI": "nimfa"
+      },
+      {
+        "Tool": "novoSpaRc",
+        "PyPI": "novosparc"
+      },
+      {
+        "Tool": "OCAT",
+        "PyPI": "OCAT"
+      },
+      {
+        "Tool": "OmicInt",
+        "CRAN": "OmicInt"
+      },
+      {
+        "Tool": "OnlinePCA"
+      },
+      {
+        "Tool": "Ouija"
+      },
+      {
+        "Tool": "pagoda2",
+        "CRAN": "pagoda2"
+      },
+      {
+        "Tool": "Palantir",
+        "PyPI": "palantir"
+      },
+      {
+        "Tool": "PALMO",
+        "CRAN": "PALMO"
+      },
+      {
+        "Tool": "Palo"
+      },
+      {
+        "Tool": "Pamona",
+        "PyPI": "pamona"
+      },
+      {
+        "Tool": "pCMF"
+      },
+      {
+        "Tool": "pCreode",
+        "PyPI": "pcreode"
+      },
+      {
+        "Tool": "Pegasus",
+        "PyPI": "pegasuspy"
+      },
+      {
+        "Tool": "PHATE",
+        "CRAN": "phateR",
+        "PyPI": "phate"
+      },
+      {
+        "Tool": "phiclust"
+      },
+      {
+        "Tool": "PieParty",
+        "PyPI": "pieparty"
+      },
+      {
+        "Tool": "PIMseq"
+      },
+      {
+        "Tool": "pipeComp",
+        "Bioc": "pipeComp"
+      },
+      {
+        "Tool": "PISCES"
+      },
+      {
+        "Tool": "PIVOT"
+      },
+      {
+        "Tool": "pLDA"
+      },
+      {
+        "Tool": "PoissonUMIs"
+      },
+      {
+        "Tool": "popsicleR"
+      },
+      {
+        "Tool": "POWSC",
+        "Bioc": "POWSC"
+      },
+      {
+        "Tool": "powsimR"
+      },
+      {
+        "Tool": "ProjecTILs"
+      },
+      {
+        "Tool": "Pseudocell_Tracer"
+      },
+      {
+        "Tool": "pseudogp"
+      },
+      {
+        "Tool": "PseudotimeDE"
+      },
+      {
+        "Tool": "Psix"
+      },
+      {
+        "Tool": "psupertime"
+      },
+      {
+        "Tool": "PyMINEr"
+      },
+      {
+        "Tool": "PySCUBA",
+        "PyPI": "PySCUBA"
+      },
+      {
+        "Tool": "RaceID",
+        "CRAN": "RaceID"
+      },
+      {
+        "Tool": "Randomly",
+        "PyPI": "randomly"
+      },
+      {
+        "Tool": "RayleighSelection"
+      },
+      {
+        "Tool": "RCA"
+      },
+      {
+        "Tool": "rCASC"
+      },
+      {
+        "Tool": "RCAv2"
+      },
+      {
+        "Tool": "RCSL",
+        "Bioc": "RCSL"
+      },
+      {
+        "Tool": "reCAT"
+      },
+      {
+        "Tool": "redPATH"
+      },
+      {
+        "Tool": "Regionvelocity"
+      },
+      {
+        "Tool": "Revelio"
+      },
+      {
+        "Tool": "RISC"
+      },
+      {
+        "Tool": "RNA-combine"
+      },
+      {
+        "Tool": "robustSingleCell"
+      },
+      {
+        "Tool": "ROGUE"
+      },
+      {
+        "Tool": "RSCORE"
+      },
+      {
+        "Tool": "rSuperCT"
+      },
+      {
+        "Tool": "rusty_axe",
+        "PyPI": "rusty-axe-bbrener1"
+      },
+      {
+        "Tool": "RZiMM"
+      },
+      {
+        "Tool": "sake"
+      },
+      {
+        "Tool": "SAM",
+        "PyPI": "sam-algorithm"
+      },
+      {
+        "Tool": "SampleQC"
+      },
+      {
+        "Tool": "satuRn",
+        "Bioc": "satuRn"
+      },
+      {
+        "Tool": "SAUCIE"
+      },
+      {
+        "Tool": "sc-compReg"
+      },
+      {
+        "Tool": "SC2P"
+      },
+      {
+        "Tool": "scAAnet",
+        "PyPI": "scAAnet"
+      },
+      {
+        "Tool": "scAI"
+      },
+      {
+        "Tool": "scAIDE"
+      },
+      {
+        "Tool": "SCALEX",
+        "PyPI": "scalex"
+      },
+      {
+        "Tool": "scanalysis"
+      },
+      {
+        "Tool": "scAnnotatR",
+        "Bioc": "scAnnotatR"
+      },
+      {
+        "Tool": "Scanpy",
+        "PyPI": "scanpy"
+      },
+      {
+        "Tool": "scarf",
+        "PyPI": "scarf"
+      },
+      {
+        "Tool": "Scater",
+        "Bioc": "scater"
+      },
+      {
+        "Tool": "SCATrEx",
+        "PyPI": "scatrex"
+      },
+      {
+        "Tool": "scatterHatch",
+        "Bioc": "scatterHatch"
+      },
+      {
+        "Tool": "scbean",
+        "PyPI": "scbean"
+      },
+      {
+        "Tool": "SCCAF",
+        "PyPI": "SCCAF"
+      },
+      {
+        "Tool": "scClassify",
+        "Bioc": "scClassify"
+      },
+      {
+        "Tool": "scClustBench"
+      },
+      {
+        "Tool": "scclusteval"
+      },
+      {
+        "Tool": "scClustViz"
+      },
+      {
+        "Tool": "scCODE"
+      },
+      {
+        "Tool": "scConsensus"
+      },
+      {
+        "Tool": "scCustomize"
+      },
+      {
+        "Tool": "scDAPA"
+      },
+      {
+        "Tool": "scDART"
+      },
+      {
+        "Tool": "scDataviz",
+        "Bioc": "scDataviz"
+      },
+      {
+        "Tool": "SCDE",
+        "Bioc": "scde"
+      },
+      {
+        "Tool": "scDHA",
+        "CRAN": "scDHA"
+      },
+      {
+        "Tool": "scdiff",
+        "PyPI": "scdiff"
+      },
+      {
+        "Tool": "scDiffCom",
+        "CRAN": "scDiffCom"
+      },
+      {
+        "Tool": "scdney"
+      },
+      {
+        "Tool": "Scedar",
+        "PyPI": "scedar"
+      },
+      {
+        "Tool": "SCell"
+      },
+      {
+        "Tool": "SCelVis",
+        "PyPI": "scelvis"
+      },
+      {
+        "Tool": "SCENA"
+      },
+      {
+        "Tool": "SCENIC",
+        "PyPI": "pyscenic"
+      },
+      {
+        "Tool": "scEpath"
+      },
+      {
+        "Tool": "scFates",
+        "PyPI": "scFates"
+      },
+      {
+        "Tool": "scFeatureFilter",
+        "Bioc": "scFeatureFilter"
+      },
+      {
+        "Tool": "scFlow"
+      },
+      {
+        "Tool": "scGAE"
+      },
+      {
+        "Tool": "scGate"
+      },
+      {
+        "Tool": "scGEAToolbox"
+      },
+      {
+        "Tool": "scGESTALT"
+      },
+      {
+        "Tool": "scGPS",
+        "Bioc": "scGPS"
+      },
+      {
+        "Tool": "scGTM"
+      },
+      {
+        "Tool": "schema",
+        "PyPI": "schema-learn"
+      },
+      {
+        "Tool": "schex",
+        "Bioc": "schex"
+      },
+      {
+        "Tool": "SCHiRM"
+      },
+      {
+        "Tool": "schist"
+      },
+      {
+        "Tool": "SCHNAPPs"
+      },
+      {
+        "Tool": "scHOT",
+        "Bioc": "scHOT"
+      },
+      {
+        "Tool": "scicast",
+        "PyPI": "scicast"
+      },
+      {
+        "Tool": "scID"
+      },
+      {
+        "Tool": "Scillus"
+      },
+      {
+        "Tool": "SCINA",
+        "CRAN": "SCINA"
+      },
+      {
+        "Tool": "scirpy",
+        "PyPI": "scirpy"
+      },
+      {
+        "Tool": "ScisorWiz"
+      },
+      {
+        "Tool": "scITD",
+        "CRAN": "scITD"
+      },
+      {
+        "Tool": "scIVA"
+      },
+      {
+        "Tool": "Sciviewer",
+        "PyPI": "sciviewer"
+      },
+      {
+        "Tool": "scJoint"
+      },
+      {
+        "Tool": "scLINE"
+      },
+      {
+        "Tool": "scLVM",
+        "PyPI": "scLVM"
+      },
+      {
+        "Tool": "scMAGS",
+        "PyPI": "scmags"
+      },
+      {
+        "Tool": "scMappR",
+        "CRAN": "scMappR"
+      },
+      {
+        "Tool": "scMC"
+      },
+      {
+        "Tool": "scMCA"
+      },
+      {
+        "Tool": "scMetric"
+      },
+      {
+        "Tool": "scMiko"
+      },
+      {
+        "Tool": "scmixture"
+      },
+      {
+        "Tool": "scMLnet"
+      },
+      {
+        "Tool": "scMRMA"
+      },
+      {
+        "Tool": "scMuffin"
+      },
+      {
+        "Tool": "scNetViz"
+      },
+      {
+        "Tool": "SCNS"
+      },
+      {
+        "Tool": "scone",
+        "Bioc": "scone"
+      },
+      {
+        "Tool": "SCope"
+      },
+      {
+        "Tool": "SCORPIUS",
+        "CRAN": "SCORPIUS"
+      },
+      {
+        "Tool": "SCPA"
+      },
+      {
+        "Tool": "scPanoView"
+      },
+      {
+        "Tool": "scPhere"
+      },
+      {
+        "Tool": "scPipe",
+        "Bioc": "scPipe"
+      },
+      {
+        "Tool": "scploid"
+      },
+      {
+        "Tool": "scPlot",
+        "PyPI": "scplot"
+      },
+      {
+        "Tool": "scPopCorn",
+        "PyPI": "scpopcorn"
+      },
+      {
+        "Tool": "scPred"
+      },
+      {
+        "Tool": "scprep",
+        "PyPI": "scprep"
+      },
+      {
+        "Tool": "scProject",
+        "PyPI": "scProject"
+      },
+      {
+        "Tool": "scProximitE",
+        "PyPI": "scproximite"
+      },
+      {
+        "Tool": "SCpubr"
+      },
+      {
+        "Tool": "SCRABBLE"
+      },
+      {
+        "Tool": "scran",
+        "Bioc": "scran"
+      },
+      {
+        "Tool": "SCRAT"
+      },
+      {
+        "Tool": "scriabin"
+      },
+      {
+        "Tool": "Scribe"
+      },
+      {
+        "Tool": "scRNABatchQC"
+      },
+      {
+        "Tool": "scruff",
+        "Bioc": "scruff"
+      },
+      {
+        "Tool": "scRutiNy",
+        "PyPI": "RNAscrutiny"
+      },
+      {
+        "Tool": "scSeqComm"
+      },
+      {
+        "Tool": "scSeqR"
+      },
+      {
+        "Tool": "scSpace"
+      },
+      {
+        "Tool": "scSVA"
+      },
+      {
+        "Tool": "scTDA",
+        "PyPI": "scTDA"
+      },
+      {
+        "Tool": "scTensor",
+        "Bioc": "scTensor"
+      },
+      {
+        "Tool": "scTGIF",
+        "Bioc": "scTGIF"
+      },
+      {
+        "Tool": "scTHI",
+        "Bioc": "scTHI"
+      },
+      {
+        "Tool": "scTour",
+        "PyPI": "sctour"
+      },
+      {
+        "Tool": "sctransform",
+        "CRAN": "sctransform"
+      },
+      {
+        "Tool": "scTree"
+      },
+      {
+        "Tool": "scTreeViz",
+        "Bioc": "scTreeViz"
+      },
+      {
+        "Tool": "scTriangulate",
+        "PyPI": "sctriangulate"
+      },
+      {
+        "Tool": "scTyper"
+      },
+      {
+        "Tool": "SCUBI"
+      },
+      {
+        "Tool": "scUnifrac"
+      },
+      {
+        "Tool": "SCUREL"
+      },
+      {
+        "Tool": "scVelo",
+        "PyPI": "scvelo"
+      },
+      {
+        "Tool": "scVirtualCyto"
+      },
+      {
+        "Tool": "scvr",
+        "PyPI": "scvr"
+      },
+      {
+        "Tool": "SEACells"
+      },
+      {
+        "Tool": "SEMITONES"
+      },
+      {
+        "Tool": "SEQUIN"
+      },
+      {
+        "Tool": "Seurat",
+        "CRAN": "Seurat"
+      },
+      {
+        "Tool": "SHARP"
+      },
+      {
+        "Tool": "Sharq"
+      },
+      {
+        "Tool": "ShinyCell"
+      },
+      {
+        "Tool": "Sierra"
+      },
+      {
+        "Tool": "SigEMD"
+      },
+      {
+        "Tool": "SigHotSpotter"
+      },
+      {
+        "Tool": "SIGMA"
+      },
+      {
+        "Tool": "SIMBA"
+      },
+      {
+        "Tool": "SIMLR",
+        "Bioc": "SIMLR",
+        "PyPI": "SIMLR"
+      },
+      {
+        "Tool": "Sincast"
+      },
+      {
+        "Tool": "sincell",
+        "Bioc": "sincell"
+      },
+      {
+        "Tool": "SinCHet"
+      },
+      {
+        "Tool": "SingCellaR"
+      },
+      {
+        "Tool": "SingleCellExplorer"
+      },
+      {
+        "Tool": "singleCellHaystack",
+        "CRAN": "singleCellHaystack"
+      },
+      {
+        "Tool": "SingleCellNet"
+      },
+      {
+        "Tool": "SingleCellSignalR",
+        "Bioc": "SingleCellSignalR"
+      },
+      {
+        "Tool": "SingleCellSignatureExplorer"
+      },
+      {
+        "Tool": "singleCellTK",
+        "Bioc": "singleCellTK"
+      },
+      {
+        "Tool": "SingleR",
+        "Bioc": "SingleR"
+      },
+      {
+        "Tool": "singlet",
+        "PyPI": "singlet"
+      },
+      {
+        "Tool": "slalom",
+        "Bioc": "slalom"
+      },
+      {
+        "Tool": "sleepwalk",
+        "CRAN": "sleepwalk"
+      },
+      {
+        "Tool": "slingshot",
+        "Bioc": "slingshot"
+      },
+      {
+        "Tool": "solo",
+        "PyPI": "solo-sc"
+      },
+      {
+        "Tool": "SoptSC"
+      },
+      {
+        "Tool": "SOUP"
+      },
+      {
+        "Tool": "SoupX",
+        "CRAN": "SoupX"
+      },
+      {
+        "Tool": "SPADE"
+      },
+      {
+        "Tool": "SpaOTsc"
+      },
+      {
+        "Tool": "speckle"
+      },
+      {
+        "Tool": "Spectrum",
+        "CRAN": "Spectrum"
+      },
+      {
+        "Tool": "Splatter",
+        "Bioc": "splatter"
+      },
+      {
+        "Tool": "SPRING"
+      },
+      {
+        "Tool": "sscClust"
+      },
+      {
+        "Tool": "StabMap"
+      },
+      {
+        "Tool": "STEMNET"
+      },
+      {
+        "Tool": "STREAM"
+      },
+      {
+        "Tool": "SuperCell"
+      },
+      {
+        "Tool": "SWNE"
+      },
+      {
+        "Tool": "SymSim"
+      },
+      {
+        "Tool": "talklr"
+      },
+      {
+        "Tool": "Tangram",
+        "PyPI": "tangram-sc"
+      },
+      {
+        "Tool": "TBSP",
+        "PyPI": "tbsp"
+      },
+      {
+        "Tool": "TCM"
+      },
+      {
+        "Tool": "TedSim"
+      },
+      {
+        "Tool": "Tempora"
+      },
+      {
+        "Tool": "TinGa"
+      },
+      {
+        "Tool": "tn_test",
+        "PyPI": "truncated-normal"
+      },
+      {
+        "Tool": "TooManyCells",
+        "CRAN": "TooManyCellsR"
+      },
+      {
+        "Tool": "TopOMetry",
+        "PyPI": "topometry"
+      },
+      {
+        "Tool": "TraCeR"
+      },
+      {
+        "Tool": "tradeSeq",
+        "Bioc": "tradeSeq"
+      },
+      {
+        "Tool": "Trajan"
+      },
+      {
+        "Tool": "traviz",
+        "Bioc": "traviz"
+      },
+      {
+        "Tool": "Tree-SNE"
+      },
+      {
+        "Tool": "TreeCorTreat"
+      },
+      {
+        "Tool": "trendsceek"
+      },
+      {
+        "Tool": "tricycle",
+        "Bioc": "tricycle"
+      },
+      {
+        "Tool": "TRIPOD"
+      },
+      {
+        "Tool": "TSCAN",
+        "Bioc": "TSCAN"
+      },
+      {
+        "Tool": "ucie",
+        "CRAN": "ucie"
+      },
+      {
+        "Tool": "UNCURL",
+        "PyPI": "uncurl-seq"
+      },
+      {
+        "Tool": "UniTVelo",
+        "PyPI": "unitvelo"
+      },
+      {
+        "Tool": "UPhyloplot2"
+      },
+      {
+        "Tool": "URD"
+      },
+      {
+        "Tool": "VALERIE",
+        "CRAN": "VALERIE"
+      },
+      {
+        "Tool": "VASC"
+      },
+      {
+        "Tool": "VDJPuzzle"
+      },
+      {
+        "Tool": "velocyto",
+        "PyPI": "velocyto"
+      },
+      {
+        "Tool": "VeloSim"
+      },
+      {
+        "Tool": "VeloViz",
+        "Bioc": "veloviz"
+      },
+      {
+        "Tool": "VIA",
+        "PyPI": "pyVIA"
+      },
+      {
+        "Tool": "VIPCCA",
+        "PyPI": "vipcca"
+      },
+      {
+        "Tool": "VIPER"
+      },
+      {
+        "Tool": "VisCello"
+      },
+      {
+        "Tool": "VISION"
+      },
+      {
+        "Tool": "visnormsc"
+      },
+      {
+        "Tool": "vissE",
+        "Bioc": "vissE"
+      },
+      {
+        "Tool": "VITAE",
+        "PyPI": "pyvitae"
+      },
+      {
+        "Tool": "Vitessce"
+      },
+      {
+        "Tool": "VoxHunt"
+      },
+      {
+        "Tool": "WASP"
+      },
+      {
+        "Tool": "WAT3R"
+      },
+      {
+        "Tool": "Wishbone",
+        "PyPI": "wishbone-dev"
+      },
+      {
+        "Tool": "wot",
+        "PyPI": "wot"
+      },
+      {
+        "Tool": "zUMIs"
+      }
+    ]
+  }
+]

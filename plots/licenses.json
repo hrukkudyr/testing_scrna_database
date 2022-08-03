@@ -1,0 +1,488 @@
+{
+  "data": [
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [1],
+      "y": [494],
+      "text": "License: GPL<br />Count: 494<br />Percent: 38.1",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(236,0,140,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(GPL,1)",
+      "legendgroup": "(GPL,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [2],
+      "y": [362],
+      "text": "License: MIT<br />Count: 362<br />Percent: 27.9",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,173,239,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(MIT,1)",
+      "legendgroup": "(MIT,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [3],
+      "y": [82],
+      "text": "License: BSD<br />Count:  82<br />Percent: 6.3",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(141,198,63,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(BSD,1)",
+      "legendgroup": "(BSD,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [4],
+      "y": [46],
+      "text": "License: Apache<br />Count:  46<br />Percent: 3.5",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,183,198,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(Apache,1)",
+      "legendgroup": "(Apache,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.949999999999999,
+      "base": 0,
+      "x": [5],
+      "y": [20],
+      "text": "License: Artistic<br />Count:  20<br />Percent: 1.5",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(244,121,32,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(Artistic,1)",
+      "legendgroup": "(Artistic,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.949999999999999,
+      "base": 0,
+      "x": [6],
+      "y": [37],
+      "text": "License: Other<br />Count:  37<br />Percent: 2.9",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(122,82,199,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(Other,1)",
+      "legendgroup": "(Other,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.949999999999999,
+      "base": 0,
+      "x": [7],
+      "y": [255],
+      "text": "License: Unknown<br />Count: 255<br />Percent: 19.7",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(153,153,153,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "transparent"
+        }
+      },
+      "name": "(Unknown,1)",
+      "legendgroup": "(Unknown,1)",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1],
+      "y": [429.2],
+      "text": "GPL<br />38.1%",
+      "hovertext": "License: GPL<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 429.2<br />Percent: 38.1",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(255,255,255,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "GPL",
+      "legendgroup": "GPL",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2],
+      "y": [426.8],
+      "text": "MIT<br />27.9%",
+      "hovertext": "License: MIT<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 426.8<br />Percent: 27.9",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(0,173,239,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "MIT",
+      "legendgroup": "MIT",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [3],
+      "y": [146.8],
+      "text": "BSD<br />6.3%",
+      "hovertext": "License: BSD<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 146.8<br />Percent: 6.3",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(141,198,63,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "BSD",
+      "legendgroup": "BSD",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [4],
+      "y": [110.8],
+      "text": "Apache<br />3.5%",
+      "hovertext": "License: Apache<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 110.8<br />Percent: 3.5",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(0,183,198,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Apache",
+      "legendgroup": "Apache",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [5],
+      "y": [84.8],
+      "text": "Artistic<br />1.5%",
+      "hovertext": "License: Artistic<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...:  84.8<br />Percent: 1.5",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(244,121,32,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Artistic",
+      "legendgroup": "Artistic",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [6],
+      "y": [101.8],
+      "text": "Other<br />2.9%",
+      "hovertext": "License: Other<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 101.8<br />Percent: 2.9",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(122,82,199,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Other",
+      "legendgroup": "Other",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [7],
+      "y": [319.8],
+      "text": "Unknown<br />19.7%",
+      "hovertext": "License: Unknown<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 319.8<br />Percent: 19.7",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(153,153,153,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Unknown",
+      "legendgroup": "Unknown",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 50,
+      "r": 30,
+      "b": 50,
+      "l": 30
+    },
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 18.5969281859693
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [0.4, 7.6],
+      "tickmode": "array",
+      "ticktext": ["GPL", "MIT", "BSD", "Apache", "Artistic", "Other", "Unknown"],
+      "tickvals": [1, 2, 3, 4, 5, 6, 7],
+      "categoryorder": "array",
+      "categoryarray": ["GPL", "MIT", "BSD", "Apache", "Artistic", "Other", "Unknown"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 0,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-24.7, 518.7],
+      "tickmode": "array",
+      "ticktext": ["0", "100", "200", "300", "400", "500"],
+      "tickvals": [-3.5527136788005e-15, 100, 200, 300, 400, 500],
+      "categoryorder": "array",
+      "categoryarray": ["0", "100", "200", "300", "400", "500"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 0,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": null,
+      "bordercolor": null,
+      "borderwidth": 0,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 15.9402241594022
+      }
+    },
+    "hovermode": "closest",
+    "height": 600,
+    "barmode": "relative",
+    "autosize": true
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false,
+    "responsive": true
+  },
+  "source": "A",
+  "attrs": {
+    "39a93390e915": {
+      "x": {},
+      "y": {},
+      "fill": {},
+      "text": {},
+      "type": "bar"
+    },
+    "39a93d1767ee": {
+      "x": {},
+      "y": {},
+      "fill": {},
+      "text": {},
+      "label": {},
+      "colour": {}
+    }
+  },
+  "cur_data": "39a93390e915",
+  "visdat": {
+    "39a93390e915": ["function (y) ", "x"],
+    "39a93d1767ee": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}

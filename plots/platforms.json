@@ -1,0 +1,399 @@
+{
+  "data": [
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [1],
+      "y": [748],
+      "text": "Platform: R<br />Count: 748<br />Percent: 57.7",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(236,0,140,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(255,255,255,1)"
+        }
+      },
+      "name": "R",
+      "legendgroup": "R",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [2],
+      "y": [528],
+      "text": "Platform: Python<br />Count: 528<br />Percent: 40.7",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,173,239,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,173,239,1)"
+        }
+      },
+      "name": "Python",
+      "legendgroup": "Python",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [3],
+      "y": [143],
+      "text": "Platform: C++<br />Count: 143<br />Percent: 11",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(141,198,63,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(141,198,63,1)"
+        }
+      },
+      "name": "C++",
+      "legendgroup": "C++",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.95,
+      "base": 0,
+      "x": [4],
+      "y": [74],
+      "text": "Platform: MATLAB<br />Count:  74<br />Percent: 5.7",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(0,183,198,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(0,183,198,1)"
+        }
+      },
+      "name": "MATLAB",
+      "legendgroup": "MATLAB",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "orientation": "v",
+      "width": 0.949999999999999,
+      "base": 0,
+      "x": [5],
+      "y": [34],
+      "text": "Platform: Other<br />Count:  34<br />Percent: 2.6",
+      "type": "bar",
+      "textposition": "none",
+      "marker": {
+        "autocolorscale": false,
+        "color": "rgba(244,121,32,1)",
+        "line": {
+          "width": 1.88976377952756,
+          "color": "rgba(244,121,32,1)"
+        }
+      },
+      "name": "Other",
+      "legendgroup": "Other",
+      "showlegend": true,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [1],
+      "y": [671.65],
+      "text": "R<br />57.7%",
+      "hovertext": "Platform: R<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 671.65<br />Percent: 57.7",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(255,255,255,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "R",
+      "legendgroup": "R",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [2],
+      "y": [604.35],
+      "text": "Python<br />40.7%",
+      "hovertext": "Platform: Python<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 604.35<br />Percent: 40.7",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(0,173,239,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Python",
+      "legendgroup": "Python",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [3],
+      "y": [219.35],
+      "text": "C++<br />11%",
+      "hovertext": "Platform: C++<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 219.35<br />Percent: 11",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(141,198,63,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "C++",
+      "legendgroup": "C++",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [4],
+      "y": [150.35],
+      "text": "MATLAB<br />5.7%",
+      "hovertext": "Platform: MATLAB<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 150.35<br />Percent: 5.7",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(0,183,198,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "MATLAB",
+      "legendgroup": "MATLAB",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    },
+    {
+      "x": [5],
+      "y": [110.35],
+      "text": "Other<br />2.6%",
+      "hovertext": "Platform: Other<br />dplyr::if_else(Count == max(Count), Count - sum(Count) * 0.05, ...: 110.35<br />Percent: 2.6",
+      "textfont": {
+        "size": 18.8976377952756,
+        "color": "rgba(244,121,32,1)"
+      },
+      "type": "scatter",
+      "mode": "text",
+      "hoveron": "points",
+      "name": "Other",
+      "legendgroup": "Other",
+      "showlegend": false,
+      "xaxis": "x",
+      "yaxis": "y",
+      "hoverinfo": "text",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "margin": {
+      "t": 50,
+      "r": 30,
+      "b": 50,
+      "l": 30
+    },
+    "font": {
+      "color": "rgba(0,0,0,1)",
+      "family": "",
+      "size": 18.5969281859693
+    },
+    "xaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [0.4, 5.6],
+      "tickmode": "array",
+      "ticktext": ["R", "Python", "C++", "MATLAB", "Other"],
+      "tickvals": [1, 2, 3, 4, 5],
+      "categoryorder": "array",
+      "categoryarray": ["R", "Python", "C++", "MATLAB", "Other"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 0,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "y",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "type": "linear",
+      "autorange": false,
+      "range": [-37.4, 785.4],
+      "tickmode": "array",
+      "ticktext": ["0", "200", "400", "600"],
+      "tickvals": [0, 200, 400, 600],
+      "categoryorder": "array",
+      "categoryarray": ["0", "200", "400", "600"],
+      "nticks": null,
+      "ticks": "",
+      "tickcolor": null,
+      "ticklen": 0,
+      "tickwidth": 0,
+      "showticklabels": false,
+      "tickfont": {
+        "color": null,
+        "family": null,
+        "size": 0
+      },
+      "tickangle": -0,
+      "showline": false,
+      "linecolor": null,
+      "linewidth": 0,
+      "showgrid": false,
+      "gridcolor": null,
+      "gridwidth": 0,
+      "zeroline": false,
+      "anchor": "x",
+      "title": {
+        "text": "",
+        "font": {
+          "color": null,
+          "family": null,
+          "size": 0
+        }
+      },
+      "hoverformat": ".2f"
+    },
+    "shapes": [
+      {
+        "type": "rect",
+        "fillcolor": null,
+        "line": {
+          "color": null,
+          "width": 0,
+          "linetype": []
+        },
+        "yref": "paper",
+        "xref": "paper",
+        "x0": 0,
+        "x1": 1,
+        "y0": 0,
+        "y1": 1
+      }
+    ],
+    "showlegend": false,
+    "legend": {
+      "bgcolor": null,
+      "bordercolor": null,
+      "borderwidth": 0,
+      "font": {
+        "color": "rgba(0,0,0,1)",
+        "family": "",
+        "size": 15.9402241594022
+      }
+    },
+    "hovermode": "closest",
+    "height": 600,
+    "barmode": "relative",
+    "autosize": true
+  },
+  "config": {
+    "doubleClick": "reset",
+    "modeBarButtonsToAdd": ["hoverclosest", "hovercompare"],
+    "showSendToCloud": false,
+    "responsive": true
+  },
+  "source": "A",
+  "attrs": {
+    "39a918e3492": {
+      "x": {},
+      "y": {},
+      "fill": {},
+      "colour": {},
+      "text": {},
+      "type": "bar"
+    },
+    "39a927689de1": {
+      "x": {},
+      "y": {},
+      "fill": {},
+      "colour": {},
+      "text": {},
+      "label": {}
+    }
+  },
+  "cur_data": "39a918e3492",
+  "visdat": {
+    "39a918e3492": ["function (y) ", "x"],
+    "39a927689de1": ["function (y) ", "x"]
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
